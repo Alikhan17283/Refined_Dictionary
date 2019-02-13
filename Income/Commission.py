@@ -1,0 +1,22 @@
+Commission=[" commission",
+" commission",
+"commission",
+"commision",
+"commision payment",
+"commission",
+"commission tip",
+"domain host commission",
+" commission",
+"fee commission",
+"commission",
+"internal sale commission",
+"order commission",
+" commission",
+"profit commission",
+" commission",
+"sale commission",
+"sensitive commission",
+" commission",
+
+
+]
