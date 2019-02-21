@@ -1,7 +1,8 @@
 Education=["study",
 "school",
 "book",
-
+"courses",           
+"college",
 "booking",
 "bookpk",
 "booksbagsstationaory",
