@@ -4,7 +4,7 @@ Charity_Donations_Zakaat_Sadqa = ["sadqa",
 "donate",
 "donate masjid",
 "donation",
-
+"masjid",
 "fund donation",
 "kheraat",
 "kherat",
