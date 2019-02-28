@@ -1,22 +1,30 @@
-Grocery={"Meat":(
+Grocery={
+
+"Meat":(
 "meat",
-"Chickem",
-"mutton"
-"beef"
-"fish"
-"mince meat"
-"Red Meat",
-"Meat & Poultry"
-"Fish & Meat",
-"Ghosht",
-"Ghost",
+"chickem",
+"chiken",   
+"mutton",
+"muton",
+"beef",
+"fish",
+"mince meat",
+"red meat",
+"poultry",
+"meat & poultry",
+"fish & meat",
+"ghosht",
+"ghost",
+"gosht",
 "murgi",
-"bakra"
+"bakra",
+"prwan",
+"prawns"
 ),
 
 
-"Fruites & Vegetables":(
-    "fruit"
+"Fruits & Vegetables":(
+    "fruit",
     "apple",
     "banana",
     "orange",
@@ -25,11 +33,11 @@ Grocery={"Meat":(
     "grapefruit",
     "grapes",
     "guava",
-    "lychee"
+    "lychee",
     "lichi",
     "pineapple",
     "pomegranate",
-    "watermellon",
+    "watermelon",
     "rasberries",
     "fruit",
     "fruite",
@@ -38,13 +46,23 @@ Grocery={"Meat":(
     "frot",
     "aloo",
     "piyaaz",
-    "temator"
+    "piyaz",
+    "temator",
+    "timatar",
+    "tomato",
+    "potato",
     "gobi",
     "palak",
     "dhania",
+    "podina",
+    "lehsun",
+    "adrak",
+    "mooli",
+    "bhindi",
     "gajar",
     "loki",
-    "onions"
+    "onions",
+    "garlic",
     "potatos",
     "reddish",
     "carrot",
@@ -52,90 +70,129 @@ Grocery={"Meat":(
     "cauliflower",
     "broccoli",
     "lettuce",
-    "ginger"
+    "ginger",
     "pumpkin",
     "tomatoes"
     "cucumber",
     "veg",
+    "veggie",
+    "vegs",
     "vegitable",
     "vegetable",
+    "vegettable",
+    "vegetabel",
     "vagetabel",
     "phal",
-    "phaal",
-    "sabzi"
-    "sbzi"
+    "phall",
+    "sabzi",
+    "sbzi",
+    "sabzii",
+    "sabzy",
     "aloo",
-    "piyaz"
-    "sabze"
+    "peyaz",
+    "sabze",
     "dates",
     "dryfruit",
     
 ),
 
-"Dairy products":(
-    "Milk",
+"Dairy Products":(
+    "milk",
     "doodh",
     "butter"
-    "makan",
-    "egg"
+    "makhan",
+    "egg",
+    "eggs",
     "cream",
     "yougat",
+    "yogurt",
+    "yoghurt",
+    "curd",
     "dahi",
     "curt",
     "dehi",
     "curd",
     "bread",
+    "cheese",
     "double roti",
     "everyday",
-    "Noorpur Butter",
-    "Nurpur Butter"
+    "noorpur butter",
+    "nurpur butter",
+    "icecream",
+    "olpers",
+    "dayfresh",
+    "milkpak",
+    "haleeb",
+    "tarang",
+    "nesvita",
+    "nido",
+    "cerelac",
+    "enfamil",
+    "pediasure",
+    "kulfi",
+    "malai",
+    "dahi",
+    "rabri",
+    "rasmalai",
     "custard",
     "pudding",
     "ice cream",
     "cake",
-    "chocolate"
-    "desserts"
+    "chocolate",
+    "desserts",
 ),
-    "pantry":(
+    "Pantry":(
         "rashan",
         "pantry",
         "flour",
+        "maida",
+        "patti",
         "coffee",
-        "sugar"
+        "sugar",
         "cheeni",
         "aata",
-        "floor",
+        "chaawal",
         "jelly",
-        "brown rice"
-        "rice"
+        "brown rice",
+        "rice",
         "chawal",
         "macaroni",
+        "macroni",
+        "ketchup",
+        "chili sauce",
+        "chilli sauce",
+        "soy sauce",
         "spaghetti",
         "spageti",
-        "noodel",
+        "noodle",
         "noodles",
-        "maggi"
+        "maggi",
         "noodel",
         "daal",
-        "daleya"
+        "daleya",
 
 
     ),
-"spices":
+"Spices":
     (   "spices",
          "oil",
         "cooking oil",
+       "soya supreme"
         "tail",
+         "tel",
         "masala",
         "vinegar",
-        " cocoa",
+        "cocoa",
         "vanila"
     ),
-"snacks":(
+"Snacks":(
     "biscuits",
     "chocolate",
     "chips",
     "biscut",
+    "cocomo",
+    "cheez",
+    "lays",
     "cookies",
     "bun",
     "bakery"
@@ -148,60 +205,64 @@ Grocery={"Meat":(
     "nutella",
     "cereal",
     "milo",
-    "cold drinks"
+    "cold drinks",
     "pepsi",
     "7up",
     "mirinda",
     "coke",
-    "soft drinks"
+    "soft drinks",
+    "sting"
 )
-    "Cosmetic":(
+    "Cosmetics":(
         "soap",
         "sabun",
         "facewash",
         "toothpaste",
         "toothbrush",
+        "brush",
         "shampoo",
-        "shampo"
+        "shampo",
         "bodyspray",
         "perfume",
         "prfume",
         "razor",
-        "blade"
-        "shave"
-        "gillette"
+        "blade",
+        "shave",
+        "gillette",
         "parfume",
-        "conditioner",
+        "conditioner"
 
     ),
-    "miscellaneous":("soda sarf",
+    "Miscellaneous":("soda sarf",
+                     "sauda",
+                     "grossery",
+                     "grcy",
+                     "groceri",
+                     "gocery",
+                     "surf",
                      "sarf",
+                     "washing powder",
+                     "ariel",
+                     "lemon max",
+                     "bar soap",
+                     "surf exel",
                      "powder",
-                     "ketchup",
-                     "mayonnaise"
-                     "Drinking water"
-                     "sauces"
-                     "chilly powder"
-                     "fenia"
+                     "katchup",
+                     "mayonnaise",
+                     "drinking water",
+                     "sauces",
+                     "chilly powder",
+                     "fenia",
+                     "jhaaroo",
+                     "dishwash liquid",
+                     "scrub",
+                     "spray",
                      "pampers",
                      "tissues",
                      "napkins",
+                     "rose petal"
 
                      )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
