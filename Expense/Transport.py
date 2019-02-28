@@ -1,18 +1,22 @@
 Transport={
-"Cab":("Careem"
-"carem"
-"careem"
-"caream"
-"crem"
-"cerem"
-"careem fair",
+  
+"Cabs":(
+"careem",
+"carem",
+"careem",
+"caream",
+"crem",
+"cerem",
+"careem fare",
 "uber",
 "ubar",
 "ubeer",
 "ubbar",
 "ubber",
+"obar",
+"ober",
 "fare",
-"fair"
+"taxi fair",
 "bykea",
 "bykia",
 "ceb",
@@ -22,47 +26,60 @@ Transport={
 "pexi",
 "taxify"
 "conveyance",
-"Convence",
-"Convenience",
-"Conveyance",
-"Convense",
-"Conveyance",
-"Conveyances",
+"convence",
+"convenience",
+"conveyance",
+"convense",
+"conveyance",
+"conveyances",
 "cab"
 
 ),
-"bus":("bus",
+  
+"Buses":(
+"bus",
 "metro bus",
 "bas",
 "daweoo",
 "daewo",
 "bus ferry",
 "toll",
-"couch",
-"shuttle"
+"coach",
+"shuttle",
 "daewoo",
 "van",
 "coaster",
 "redbus",
+"school bus",
 "point",
+"tourbus"
 
 ),
 
-"Rickshaw":("rickshaw",
+"Rickshaw":(
+"rickshaw",
 "auto",
-"ricksha",
-"Rickshae",
-"rakshaw"
-"rikshwa",
 "autorickshaw",
+"auto rickshaw",
+"ricksha",
+"ricshaw",
+"raksha",
+"rikshaw",'
+"rickshow"
 ),
 
 
 
-"Train":("train",
+"Train":(
+"train",
 "tran",
-
+"railgari",
+"railway",
+"metro",
+"metro train",
+"train tickets"
+"tram",
+"gondola"
 )
-
 
 }
