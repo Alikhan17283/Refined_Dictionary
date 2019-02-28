@@ -1,4 +1,6 @@
-Fuel_and_Maintainance={ "Fuel":("fuel",
+Fuel_and_Maintainance={ 
+  
+  "Fuel":(                      "fuel",
                                 "feul",
                                 "petrol",
                                 "patrol",
@@ -11,31 +13,44 @@ Fuel_and_Maintainance={ "Fuel":("fuel",
                                 "diseal",
                                 "lpg",
                                 "desal",
-                                "hi octane",
-                                "hi octain",
+                                "octane",
+                                "high octane",
+                                "octain",
                                 ),
-"Maintainance":("car service",
+"Maintenance":("car service",
                 "bike service",
+               "new key",
                 "wash",
-                "tunning",
+                "tuning",
                 "puncture",
                 "maintainance",
+               "maintenance",
                 "tyre",
+               "tyer",
+               "repaint car",
                 "cylinder",
-                "car a/c"
+                "car a/c",
                 "central locking",
                 "engine",
-                "battery",
+                "baterry",
                 "stearing",
                 "bettry",
+               "battery"
                 "radiator",
                 "viper",
                 "polish",
+               "a/c",
+               "AC",
+               "auto",
                 "ribbon polish",
                 "dentor",
                 "paint",
                 "painter",
-                "headl ight",
+                "head light",
+               "headlight",
+               "backlight",
+               "car parts",
+               "fix",
                 "back light",
                 "fogg light",
                 "indicator",
@@ -53,7 +68,7 @@ Fuel_and_Maintainance={ "Fuel":("fuel",
                 "oil",
                 "oil filter",
                 "brakes",
-                "car mats"
+                "car mats",
                 "gear",
                 "fix",
                 "tape",
@@ -61,22 +76,17 @@ Fuel_and_Maintainance={ "Fuel":("fuel",
                 "maintenence",
                 "maintainence",
                 "car clean",
-                "car overhaul"
+                "car overhaul",
                 "motorbike repair",
-                "mechanic"
+                "mechanic",
                 "mechanik",
                 "macanic",
                 "system",
-                "amplifier"
+                "amplifier",
                 "repairing",
                 "repair",
                 "bike mazdoori"
 
-
-
-
                 )
-
-
 
 }
