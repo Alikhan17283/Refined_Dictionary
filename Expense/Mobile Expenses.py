@@ -1,30 +1,30 @@
-Mobile_Expenses=["mobile Expenses",
-                 "mobile",
-"balance mobile",
+Mobile_Expenses={
+  
+"Mobile Expenses":(
+  
 "mobile",
+"balance mobile",
+"credit topup",
+"mobile top up",
+"supercard",
+"soopercard",
+"mobile credit",  
 "cell phone",
-"easy load mobile card",
+"easy load mobile",
 "easyload",
 "fone recharge",
 "internet cell",
 "mobile allownce",
 "mobile balanace",
-"mobile",
-"mobile call",
+"mbl",
 "mobile cover",
-"jazz",
-"iphone",
-"samsung",
-"nokia"
-"xiaomi"
-"blackberry"
-"mobile due samsung",
+"mobile due",
 "mobile internet",
 "mobile phone",
 "mobile phone balance",
 "mobile pkg",
 "mobile repair",
-"omni mobile account",
+"mobile data",
 "personal mobile",
 "phone",
 "phone accessory",
@@ -33,9 +33,60 @@ Mobile_Expenses=["mobile Expenses",
 "phone charge",
 "phone expense",
 "recharge",
-"recharge card",
-"telephone data",
-"telephone internet",
 "utility mobile",
 
-]
+)
+ 
+"Mobile Brands":(
+"samsung",
+"oppo",
+"nokia",  
+"oneplus",
+"motorola",
+"lg",
+"apple iphone",
+"iphone",
+ "s10",
+ "xs max",
+ "samsung galaxy",
+ "a10",
+ "google pixel", 
+  "oppo f5",
+  "oppof7",
+  "mottorola",
+  "xiaomi",
+  "qmobile",
+  "sony",
+  "sony xperia",
+  "blackberry key2",
+  "huawei",
+  "huavei",
+  "huwei",
+  "honor",
+  "vivo",
+  "redmi",
+  "note 9",
+  "lenovo k6 note",
+  "lenovo",
+  "xiaomi mi a2",
+  "htc",
+  "asus",
+  "infinix",
+
+)
+  
+"Mobile Networks":(
+"ufone",
+"u fone",
+"supercard",  
+"telenor",
+"mobilink",
+"jazz",
+"warid",
+
+)  
+  
+  
+  
+  
+}
