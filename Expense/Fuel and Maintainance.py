@@ -1,4 +1,4 @@
-Fuel_and_Maintainance={ 
+Fuel_and_Maintenance={ 
   
   "Fuel":(                      "fuel",
                                 "feul",
