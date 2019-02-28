@@ -1,6 +1,6 @@
 Education=[
 "Books":(
-"book",
+  "book",
   "law book",
   "pharmacy book",
   "sudy book",
@@ -26,9 +26,11 @@ Education=[
 "photostat",
 "photostate",
 "print photocopy",
+  "bag",
+  "colors"
 )
   
-"school":(
+"Education":(
 "study",
 "school",
 "courses",           
