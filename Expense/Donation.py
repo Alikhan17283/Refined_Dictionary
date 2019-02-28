@@ -1,5 +1,6 @@
 Donation_Charity={
-    "Donation":("Donation",
+    
+    "Donation":("donation",
                 "donate",
                 "donor",
                 "masjid",
@@ -12,18 +13,28 @@ Donation_Charity={
                "charty",
                "zakat",
                "zakaat",
-                "sadqat",
+               "sadqat",
                "sadqaat",
                "sadqa",
                "sadka",
                "imdaad",
                "emdad",
+               "khairat",
+               "imdad",
+               "madad",
                "kherat",
                "kheraat",
                "fitra",
+               "fidya"
+               "fitrana",
+               "help poor",
+               "needy",
                "poor",
-                "sadqa e jariya",
-
+               "sadqa e jariya",
+               "alms",
+               "goodwill"
+               
+               
                )
 
 
