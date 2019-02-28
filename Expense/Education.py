@@ -1,12 +1,40 @@
-Education=["study",
-"school",
+Education=[
+"Books":(
 "book",
+  "law book",
+  "pharmacy book",
+  "sudy book",
+  "course book",
+  "notes",
+  "notebook"
+  
+)
+
+"Stationary":(
+ "pen",
+ "paper",
+ "stationary",
+  "pencils",
+  "stionery",
+  "stationery",
+  "eraser",
+  "ink pen",
+  "marker",
+  "stapler",
+"photocopier",
+"photocopy",
+"photostat",
+"photostate",
+"print photocopy",
+)
+  
+"school":(
+"study",
+"school",
 "courses",           
-"college",
-"booking",
-"bookpk",
-"booksbagsstationaory",
-"bookspk",
+"college", 
+ "books bags stationaory",
+  "bookpk",
 "career education",
 "child education fee",
 "coach",
@@ -20,12 +48,10 @@ Education=["study",
 "tutor",
 "law study",
 "university",
-"photocopier",
-"photocopy",
-"photostat",
-"photostate",
-"print photocopy",
+"bookspk",
 "quran education",
+ "school fee",
+  "scool",
 "school book uniform",
 "school transport",
 "stationary photocopy",
@@ -34,9 +60,13 @@ Education=["study",
 "teach",
 "teacher",
 "tution",
+  "tuition",
 "tutions",
 "university",
 "university fee",
 "univarcity",
 "univercity"
-]
+)
+  
+
+  }
