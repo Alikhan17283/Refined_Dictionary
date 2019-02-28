@@ -1,13 +1,90 @@
-Rent=["rent",
-"academy rent",
-"alpha rent",
-"apartment rent",
-"rent",
-"karaya",
+Rent={
+"Rent":("karaya",
 "keraya",
+"rent",
+"rant",
 "kiraya",
- "keraia",
+"keraia",
 "rental",
- "rentol"
+"rentol"),
 
-]
+    "House":("house rent",
+              "ghar rent",
+              "makaan rent",
+              "flat rent",
+              "flate rent",
+              "appartment rent",
+              "room rent",
+              "kamray rent",
+               "kamra rent",
+              "home rent",
+               "hostel rent"
+               "quater rent",
+               "portion rent"
+               "quator rent",
+               "quatr rent",
+              ),
+
+"Vehical":("car rent",
+           "bike rent"
+           "van rent",
+           "Riksha rent",
+           "rickshaw rent",
+           "auto rent",
+           "ricksha rent",
+           "gari rent",
+           "gaari rent",
+           "suzuki rent",
+           "cargo rent"
+           "vigo rent",
+           "vehical rent",
+           "vehecal rent",
+           "tempo rent",
+           "bus rent",
+           "jeep rent",
+           "truck rent"
+           "taxi rent"
+           ),
+
+
+"Business Rent":("office rent",
+                 "shop rent",
+                 "dokan rent",
+                 "karobar rent",
+                 "dukaan rent",
+                 "dukan rent",
+                "factory rent",
+                 "clinic rent",
+                 "academy rent",
+                 "building rent",
+                 "property rent",
+                 "stall rent",
+                 "Karkhana rent",
+                 "warehouse rent",
+                 "plaza rent",
+                "store rent",
+                 "zameen rent",
+
+                 ),
+
+
+"Miscellaneous rent":("Garage rent",
+                      "giraj rent",
+                      "garadge rent",
+                      "market rent",
+                      "markeet rent",
+                      "furniture rent",
+                      "hall rent",
+                      "parking rent",
+                      "coaching rent",
+                      "agricultural rent",
+                      "loader rent",
+                      "hotel rent",
+                       "pg rent",
+                      "hoatel rent",
+                      "security rent",
+                      "mobile rent",
+                      "locker rent",
+
+                      )
+}
