@@ -1,4 +1,5 @@
-Shopping=["Shopping",
+Shopping={
+"Shopping":(
 "cloth",
 "cloth assesories",
 "clothe",
@@ -25,5 +26,7 @@ Shopping=["Shopping",
 "shoping",
 "shooping",
 "wedding clothes"
-]
+)
+  
+}
 
