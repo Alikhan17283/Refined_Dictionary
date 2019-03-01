@@ -9,7 +9,7 @@ Education={
   "notes",
   "notebook"
   
-)
+),
 
 "Stationary":(
  "pen",
@@ -29,7 +29,7 @@ Education={
 "print photocopy",
   "bag",
   "colors"
-)
+),
   
 "Education":(
 "study",
