@@ -1,54 +1,78 @@
 Utillities_and_bills={
 
-"Utilities":("utilities",
+"Utilities":(
+            "utilities",
              "utility",
              "utilite",
              "utilities",
-             "ghar bill"
+             "ghar bill",
+             "home bills",
+             "house bills"
                        ),
-    "Electricity":("k electric bill ",
+  
+    "Electricity":(
+           "k electric bill ",
             "ke bill",
             "k.e bill",
             "electric bill",
+            "eletricity bill",       
             "kesc bill",
             "bijli bill",
             "electricity bill",
              "light bill",
             "wapda bill"
-
             ),
-    "SSGC":("ssgc bill",
+
+  "SSGC":(
+            "ssgc bill",
             "gas bill",
+            "gas ka bill",
             "sui gas bill",
             "sue gas bill",
             "lpg bill",
             "sui southern gas bill"
             ),
 
-    "KWSB":("water bill",
+    "KWSB":(
+            "water bill",
             "pani bill",
             "kwsb bill",
-            "karachi water and severage bill"),
+            "karachi water and severage bill"
+           ),
 
-    "Internet and Tv":("internet bill",
+    "Internet and Tv":(
+              "internet bill",
                 "cabel bill",
+                "cable bill",
                 "net bill",
+                 "dth",
+                 "airtel dth",
                 "intarnet bill",
+                "intrenet",
+                "data sim",       
                 "broadband",
                 "wimax",
                 "wateen",
                 "cyber net",
+                "cybernet",
+                 "ptcl internet",
+                 "storm fiber",
+                 "stormfibre",      
                 "tv bill",
+                "worldcall",
                 "dish tv bill",
                 "television bill",
                 "wifi bill",
-                 "wi-fi bill"  ,
+                 "wi-fi bill" ,
                 "4g",
+                 "3g",
+                "zong internet",
                 "inter net bill",
                 "dsl bill",
-                "evo bill",
+                "evo",
                 "witribe",
-                "fastcable"),
+                "fastcable"
+                      ),
 
 
     "Telephone":("ptcl",
@@ -59,13 +83,13 @@ Utillities_and_bills={
                  "telefone bill",
                  "telphone bill",
                  "tnt bill",
+                 "home phone",
+                 "phone bill",
+                 "landline",
                  "telecommunication bill",
-                 "calling bill"
+                 "calling bill",
+                 "phone bill charges"
                 ),
-
-
-
-
 
 
 
