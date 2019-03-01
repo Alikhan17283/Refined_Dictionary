@@ -44,6 +44,8 @@ Fuel_and_Maintenance={
                "auto",
                 "ribbon polish",
                 "dentor",
+               "denting",
+               "painting",
                 "paint",
                 "painter",
                 "head light",
