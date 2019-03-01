@@ -34,7 +34,12 @@ Mobile_Expenses={
 "phone charge",
 "phone expense",
 "recharge",
-"utility mobile"
+"utility mobile",
+"prepaid",
+"postpaid bill",
+"postpaid",
+"internet pkg",
+"data package"  
 
 ),
  
