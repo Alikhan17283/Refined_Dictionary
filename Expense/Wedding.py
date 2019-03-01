@@ -90,6 +90,12 @@ Wedding={
 "shadi suit",
 "shadi sweettravelling ",
 "shadii card",
-"shadi  ar rent"
+"shadi  ar rent",
+"bari makeup",
+"bari shopping",
+"jahez shopping",
+"engagement shopping",
+"bari",
+"engagement"
 )
 }
