@@ -1,8 +1,9 @@
 Mobile_Expenses={
   
 "Mobile Expenses":(
-  
+ 
 "mobile",
+"communication",  
 "balance mobile",
 "credit topup",
 "mobile top up",
@@ -35,7 +36,7 @@ Mobile_Expenses={
 "recharge",
 "utility mobile",
 
-)
+),
  
 "Mobile Brands":(
 "samsung",
@@ -53,6 +54,7 @@ Mobile_Expenses={
  "google pixel", 
   "oppo f5",
   "oppof7",
+  "oppo f9"
   "mottorola",
   "xiaomi",
   "qmobile",
@@ -71,9 +73,9 @@ Mobile_Expenses={
   "xiaomi mi a2",
   "htc",
   "asus",
-  "infinix",
+  "infinix"
 
-)
+),
   
 "Mobile Networks":(
 "ufone",
@@ -82,7 +84,7 @@ Mobile_Expenses={
 "telenor",
 "mobilink",
 "jazz",
-"warid",
+"warid"
 
 )  
   
