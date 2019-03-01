@@ -1,16 +1,38 @@
 Rent={
-"Rent":("karaya",
+    
+"Rent":(
+    
+"karaya",
 "keraya",
 "rent",
 "rant",
 "kiraya",
 "keraia",
 "rental",
-"rentol"),
+"rentol",
+"renting",
+"rented",
+ "rents",
+    "rent payable",
+    "give rent",
+    "get rent",
+    "rent given",
+    "rent paid",
+    "rent payment",
+    "rent taken",
+    "rent received",
+    "monthly rent",
+    "rent income",
+    "advance rent",
+   
+ 
+),
 
-    "House":("house rent",
+    "House":(
+              "house rent",
               "ghar rent",
               "makaan rent",
+              "makan rent",
               "flat rent",
               "flate rent",
               "appartment rent",
@@ -18,32 +40,44 @@ Rent={
               "kamray rent",
                "kamra rent",
               "home rent",
-               "hostel rent"
+               "hostel rent",
                "quater rent",
-               "portion rent"
+                "quarter rent",
+                "plot rent",
+                "floor rent",
+               "portion rent",
                "quator rent",
                "quatr rent",
+                "residence rent"
               ),
 
-"Vehical":("car rent",
-           "bike rent"
-           "van rent",
-           "Riksha rent",
+"Vehicle":(
+            "car rent",
+            "rent a car",
+           "bike rent",
+           "uber rent",
+           "careem rent",
+           "riksha rent",
            "rickshaw rent",
            "auto rent",
            "ricksha rent",
            "gari rent",
            "gaari rent",
            "suzuki rent",
-           "cargo rent"
+           "cargo rent",
            "vigo rent",
            "vehical rent",
            "vehecal rent",
            "tempo rent",
            "bus rent",
            "jeep rent",
-           "truck rent"
-           "taxi rent"
+            "mazda rent",
+           "truck rent",
+           "taxi rent",
+            "van rent",
+            "transit rent",
+            "transport rent",
+            "vehicle rent",
            ),
 
 
@@ -53,24 +87,27 @@ Rent={
                  "karobar rent",
                  "dukaan rent",
                  "dukan rent",
-                "factory rent",
+                 "factory rent",
                  "clinic rent",
                  "academy rent",
                  "building rent",
                  "property rent",
                  "stall rent",
-                 "Karkhana rent",
+                 "salon rent",
+                 "karkhana rent",
+                 "goddam rent",
+                 "godown rent",
                  "warehouse rent",
                  "plaza rent",
-                "store rent",
-                 "zameen rent",
+                 "store rent",
+                 "zameen rent"
 
                  ),
 
 
-"Miscellaneous rent":("Garage rent",
+"miscelaneous rent":("garage rent",
                       "giraj rent",
-                      "garadge rent",
+                      "garagge rent",
                       "market rent",
                       "markeet rent",
                       "furniture rent",
@@ -80,11 +117,17 @@ Rent={
                       "agricultural rent",
                       "loader rent",
                       "hotel rent",
-                       "pg rent",
-                      "hoatel rent",
+                      "pg rent",
+                      "hostel rent",
+                      "hotel rent",
+                      "restaurant rent",
+                     "coaching rent",
+                     "center rent",
+                     "tuition rent",
                       "security rent",
                       "mobile rent",
                       "locker rent",
-
-                      )
+                       "travel rent",
+                     "tools rent"
+               )
 }
