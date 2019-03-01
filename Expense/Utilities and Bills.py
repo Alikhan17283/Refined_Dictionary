@@ -1,341 +1,81 @@
-Utilities_bills__Tex=["bills and Utilities",
-"atm tax",
-
-"bijli bill",
-"bil",
-"bill",
-"bill electric",
-"bill electric gas dish security",
-"bill electric gas water security",
-"bill electricity",
-"bill gas",
-"bill monthly",
-"bill payment",
-"bill paymet",
-"bill receive",
-"bill",
-"bill",
-"bill utility",
-"bill",
-"billing",
-"billing due",
-"bill",
-"bought",
-"bill",
-"clinic utility",
-"company bill",
-
-"dsl bill",
-"elec bill",
-"elec gas bill",
-"elecric bill",
-"elecricity bill",
-"elect bill",
-"electrcity bill",
-"electric",
-"electric bill",
-"electric charge",
-"electric gas bill",
-"electric item",
-"electric material",
-"electric matirial",
-"electric saman",
-"electric contract",
-"electrical",
-"electrical electronic",
-"electrical",
-"electrical item",
-"electrician",
-"electricity",
-"electricity bambalapitiya",
-"electricity bill",
-"electricity bill" ,
-"electricity new",
-"electricity plumbing",
-"electriction",
-"gas bill",
-"gas bill payment",
-"gas elec bill",
-"gepco bill",
-"hina bill",
-"hotal bill",
-"hotel bill",
-"k electric",
-"ke bill",
-"kotak bill",
-"kw sb bill",
-"laundry bill",
-"ledger",
-"libya",
-"light bill",
-"bill",
-"makanic bill",
-"mataji electricals",
-"mbl package",
-"mess bill",
-"metro",
-"mistry utility",
-"newspaper bill",
-"utility",
-"note bill ssgc bill",
-"bill",
-"old bill",
-"paint bill",
-"pathao bill",
-"pending bill",
-"receive bill",
-"utility",
-"electric",
-"bill",
-"saman bill",
-"sim bill",
-"society bill",
-"ssgc bill",
-"sui gas",
-"sui gas bill",
-
-"telephone bill",
-"electricity",
-"utility",
-"utility bill",
-"utility electricity bill",
-"utility kesc",
-"utility kwsb",
-"utility mindoktor",
-"utility miscellaneous",
-"utility pindi",
-"utility ssgc",
-"utility tv",
-"utility u super",
-"utility water",
-"water bill",
-"water electricity",
-"water electricity tv",
-"wifi bill",
-"wood bill"]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Utillities_and_bills={
+
+"Utilities":("utilities",
+             "utility",
+             "utilite",
+             "utilities",
+             "ghar bill"
+                       ),
+    "Electricity":("k electric bill ",
+            "ke bill",
+            "k.e bill",
+            "electric bill",
+            "kesc bill",
+            "bijli bill",
+            "electricity bill",
+             "light bill",
+            "wapda bill"
+
+            ),
+    "SSGC":("ssgc bill",
+            "gas bill",
+            "sui gas bill",
+            "sue gas bill",
+            "lpg bill",
+            "sui southern gas bill"
+            ),
+
+    "KWSB":("water bill",
+            "pani bill",
+            "kwsb bill",
+            "karachi water and severage bill"),
+
+    "Internet and Tv":("internet bill",
+                "cabel bill",
+                "net bill",
+                "intarnet bill",
+                "broadband",
+                "wimax",
+                "wateen",
+                "cyber net",
+                "tv bill",
+                "dish tv bill",
+                "television bill",
+                "wifi bill",
+                 "wi-fi bill"  ,
+                "4g",
+                "inter net bill",
+                "dsl bill",
+                "evo bill",
+                "witribe",
+                "fastcable"),
+
+
+    "Telephone":("ptcl",
+                "communication bill",
+                "telecom bill",
+                 "tele phone bill",
+                 "telephone bill",
+                 "telefone bill",
+                 "telphone bill",
+                 "tnt bill",
+                 "telecommunication bill",
+                 "calling bill"
+                ),
+
+
+
+
+
+
+
+    "Miscellaneous bill":("office bill",
+                          "dukan bill",
+                          "old house",
+                          "paint bill",
+                          "hotal bill",
+                          "hotel bill",
+                          "wastage bill"
+                          )
+
+}
