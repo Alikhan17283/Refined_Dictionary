@@ -34,7 +34,7 @@ Mobile_Expenses={
 "phone charge",
 "phone expense",
 "recharge",
-"utility mobile",
+"utility mobile"
 
 ),
  
@@ -54,7 +54,7 @@ Mobile_Expenses={
  "google pixel", 
   "oppo f5",
   "oppof7",
-  "oppo f9"
+  "oppo f9",
   "mottorola",
   "xiaomi",
   "qmobile",
