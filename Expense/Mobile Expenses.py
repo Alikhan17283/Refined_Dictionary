@@ -1,7 +1,8 @@
 Mobile_Expenses={
   
 "Mobile Expenses":(
- 
+"postpaid",
+"post paid"
 "mobile",
 "communication",  
 "balance mobile",
@@ -89,7 +90,10 @@ Mobile_Expenses={
 "telenor",
 "mobilink",
 "jazz",
-"warid"
+"warid",
+"vodafone",
+"sprint",
+"airtel"
 
 )  
   
