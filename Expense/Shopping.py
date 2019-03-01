@@ -6,9 +6,16 @@ Shopping={
                 "karedari",
                 "bazaar",
                 "bazar"
+                "online shopping",
+                "khareedari",
+                "winter clothes",
+                "shaadi shopping",
+                "bari shopping",
+                "jahez shopping"
                 ),
     
-    "Brands":("Levis",
+    "Brands":(
+                    "levis",
                     "levi's",
                     "denizen",
                     "gul ahmed",
@@ -32,10 +39,8 @@ Shopping={
                     "out fitters",
                     "junaid jamshed",
                     "j.",
-                    "Alkaram",
-                    "jacket",
-                    "pant",
-                    "ChenOne",
+                    "alkaram",
+                    "chenone",
                     "hushpuppies",
                     "rolex",
                     "nike",
@@ -44,8 +49,7 @@ Shopping={
                     "hoodie",
                     "jaffer jees",
                     "jafferjees",
-                    "HSY Studio",
-                    "HSY Studio",
+                    "hsy studio",
                     "edenrobe",
                     "warda"
                     ),
@@ -53,13 +57,16 @@ Shopping={
 "Clothing":("cloth",
             "kapray",
             "coat",
-            "pent",
+            "pant",
             "shirt",
             "tie",
             "kurta",
             "kurti",
             "shalwar kameez",
-            "online shopping",
+            "lawn",
+            "silk",
+            "khaddar",
+            "kapra",
             "trousers",
             "dress",
             "shorts",
@@ -75,42 +82,63 @@ Shopping={
             "sweater",
             "sweter",
             "hi neck",
-            "blazer"
+            "blazer",
+            "jacket",
+            "overalls",
+            "pyjamas",
+            "jeans",
+            
 
            ),
 
-"Accesaries":("watch",
+"Accessories":(
+              "watch",
               "clock",
               "cufflings",
               "cufling",
-              "cufflinks"
+              "cufflinks",
               "tie pin",
+              "ring",
               "jewellry",
               "jewellery",
-              "jewllery",
-              "neckles",
+              "jewlery",
+              "necklace",
               "ring",
               "bracelate",
               "bracelet",
               "churiyan",
+              "churiyyan",
               "ear rings",
+              "earrings", 
               "wallet",
-              "purse"
+              "purse",
+              "hand bag",
+              "clutch",
+               
 
               ),
 
 
 "Shoes":("shoe",
+         "shoes",
+         "sneakers",
          "snickers",
          "formal shoes",
+         "casual shoes",
          "dress shoes",
-         "sandal",
+         "sandals",
          "kolahapuri",
+         "mojri",
+         "khussay",
          "chappal",
          "chapal",
-         "jotay",
+         "heels",
+         "jootay",
          "joggers",
-         "jogers")
+         "jogers",
+         "fancy shoes",
+         "shadi shoes"
+        )
     
 }
 
