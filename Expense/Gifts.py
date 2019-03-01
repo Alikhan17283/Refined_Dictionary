@@ -12,6 +12,10 @@
 "birthday",
 "bouquet",
 "salami",
+"lifafa",
+ "envelope",
+  "gift cash",
+  "gift money",
 "gift card",
 "giftcard"
 
