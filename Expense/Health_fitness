@@ -1,0 +1,39 @@
+Health_fitness={"Health":("healthy"
+                          "health"
+                          "healthy food"
+                          "diet"
+                          "healthy diet"
+                          "Health & Beauty"
+                          "Health Hygiene"
+                          "protein"
+                          "calorie",
+                          "dietitian"
+                          "sugarfree"
+                          "sugar free",
+                          "vitamins",
+                          "nutritionist"
+
+                          ),
+                 "Fitness":("fitness",
+                            "fitnes",
+                            "walking",
+                            "walk",
+                            "jogg",
+                            "treadmill",
+                            "swimming",
+                            "swiming"
+                            "running",
+                            "jogging",
+                            "exercise",
+                            "excersise",
+                            "gym",
+                            "weight lefting",
+                            "dumbells",
+                            "dumbels",
+                            "gyming",
+                            "yoga",
+                            "skipping",
+                            "bodybuilding",
+                            "body building")
+
+                          }
