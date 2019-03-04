@@ -1,6 +1,7 @@
 Committee = {
 "Committee" :(
 "committee",
+"committee monthly",
 "comittee",
 "committe",
 "committe",
@@ -46,7 +47,5 @@ Committee = {
 "b.c",
 "vc",
 "v c"
-
-
 )
 }
