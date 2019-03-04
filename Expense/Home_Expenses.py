@@ -2,7 +2,13 @@ Home_Expenses = {
 
 "Home Services" :(
 "plumber",
+"electrician",
+"painter",  
 "gardener",
+"postman",
+"mailman",
+"milk man",
+"doodh wala",  
 "washer",
 "laundry",
 "dry clean",  
@@ -58,6 +64,8 @@ Home_Expenses = {
 "paint",
 "gardening",
 "wallpaper pasting",
+"polishing",
+"fumigation"  
 ),
   
 "Appliances" :(
