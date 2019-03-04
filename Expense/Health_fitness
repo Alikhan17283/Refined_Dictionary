@@ -2,6 +2,7 @@ Health_fitness={"Health":("healthy"
                           "health"
                           "healthy food"
                           "diet"
+                          "dite",
                           "healthy diet"
                           "Health & Beauty"
                           "Health Hygiene"
@@ -27,6 +28,9 @@ Health_fitness={"Health":("healthy"
                             "exercise",
                             "excersise",
                             "gym",
+                            "gim",
+                            "gm",
+                            "jim"
                             "weight lefting",
                             "dumbells",
                             "dumbels",
