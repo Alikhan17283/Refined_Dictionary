@@ -1,24 +1,40 @@
+#Donation/Charity
+#Committee
+#Health and Fitness
+#Rent
+#Fuel and Mantainances
+#Education
+#Family_Expenses
+#Food_and_Drink
+#Grocery
+#Gifts
+#Home Expense
+#Installments
+#Loan
+#Mobile Expenses
+#Shopping
+#Utilities and Bills
 The_Big_Dictionary = {
 "Donation/Charity":("charity",
 "charty",
 "zakat",
 "zakaat",
-"sadqat",                                                #Donation/Charity
-"sadqaat",                                               #Committee
-"sadqa",                                                 #Health and Fitness
-"sadka",                                                 #Rent
-"imdaad",                                                #Fuel and Mantainances
-"emdad",                                                 #Education
-"khairat",                                               #Family_Expenses
-"madad",                                                 #Food_and_Drink
-"kherat",                                                #Grocery
-"kheraat",                                               #Gifts
-"fitra",                                                 #Home Expense
-"fidya"                                                  #Installments
-"fitrana",                                               #Loan
-"help poor",                                             #Mobile Expenses
-"needy",                                                 #Shopping
-"poor",                                                  #Utilities and Bills
+"sadqat",                                                
+"sadqaat",                                               
+"sadqa",                                                 
+"sadka",                                                 
+"imdaad",                                                
+"emdad",                                                 
+"khairat",                                               
+"madad",                                                 
+"kherat",                                               
+"kheraat",                                               
+"fitra",                                                 
+"fidya"                                                  
+"fitrana",                                              
+"help poor",                                             
+"needy",                                                 
+"poor",                                                  
 "sadqa e jariya",
 "goodwill"
 "donation",
@@ -1788,3 +1804,17 @@ The_Big_Dictionary = {
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
