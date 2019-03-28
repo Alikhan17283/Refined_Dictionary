@@ -1,4 +1,6 @@
-Exact_match_Dictionary={"Food and Drink":("food",
+Exact_match_Dictionary={
+
+"Food and Drink":("food",
 "food",
 "food",
 "junk food",
@@ -6,13 +8,13 @@ Exact_match_Dictionary={"Food and Drink":("food",
 "foods",
 "junk food",
 "trish food",
-"Swiggy",
-"swiggy",
-"Zomato".
 "food",
 "office food",
 "fast food",
 "daily food",
+"Swiggy",
+"swiggy",
+"Zomato"
 "food item",
 "fast food",
 "uni food",
@@ -1096,7 +1098,7 @@ Exact_match_Dictionary={"Food and Drink":("food",
 "breakfast items",
 "office breakfast",),
 
-                        "Utilities and Bills":("utilities",
+"Utilities and Bills":("utilities",
 "utility bills",
 "utilities bills",
 "utilities",
@@ -1875,11 +1877,7 @@ Exact_match_Dictionary={"Food and Drink":("food",
 "tax return",
 "tool tax",),
 
-                        "Grocery":("grocery",
-
-
-
-"Grocery",
+"Grocery":("grocery","Grocery",
 "Grocery ",
 "Home Grocery",
 "Monthly Grocery",
@@ -2945,7 +2943,7 @@ Exact_match_Dictionary={"Food and Drink":("food",
 "Shopping for Clothing",
 "Tamkeen and kids clothes",
 "Theo_clothing ",
-"Clothing",
+"Utilities & Clothing",
 "Wajia winter clothes",
 "Washing Cloths",
 "Wife Clothes",
@@ -2963,7 +2961,7 @@ Exact_match_Dictionary={"Food and Drink":("food",
 "kal cloth",
 "musa clothes",
 "online clothes",),
-                         "Entertainment":("Entertainment",
+"Entertainment":("Entertainment",
 "Entertainment ",
 "Kids entertainment",
 "Entertainment - Family",
@@ -3149,7 +3147,7 @@ Exact_match_Dictionary={"Food and Drink":("food",
 "Movie Maker",
 "Movie Ticket",
 "movie ",),
-                        "Health and Fitness":("Health",
+"Health and Fitness":("Health",
 "Fruits And Healthy Diet",
 "Health ",
 "Health & Beauty",
@@ -3221,4345 +3219,4618 @@ Exact_match_Dictionary={"Food and Drink":("food",
 "Protein",
 "Protein Shake",
 "Swimming",
-"Diet",)
-                        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-)
-                        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-)
-
-
-                        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-)}
+"Diet",),
+"Committee":("Ballot Committee",
+"Komaitte",
+"komati",
+"Kamatee pria 6000",
+"Kamatie di montly",
+"Kamatii savings",
+"Kamattee Ú©Ù…ÛŒÙ¹ÛŒ",
+"Kameeti ",
+"Kameeti Market",
+"Kameti sabzazar store",
+"Kametti Waqas",
+"Kamitty",
+"Kammaiti",
+"Kamti Hala papo",
+"Kamytee",
+"Kommittee",
+"Kommety ",
+"Kommitte",
+"Kommittee ",
+"kommittee",
+"Kameti",
+"Kametti",
+"Kameeti",
+"Kameti ",
+"kameti",
+"Kamety",
+"Kameeties",
+"BC/Kameti",
+"Kameety ",
+"Bari kameti",
+"Bari kameti ",
+"Kameetee",
+"Kameyti",
+"Kametee",
+"Kametii",
+"Kamete",
+"Kametian",
+"Kameiti",
+"Kameti Dani",
+"Kamety ",
+"kameeti",
+"kameti ",
+"Kameti waleed bi",
+"Kametee nagina",
+"Phupo kamette",
+"Fizzah Kameti",
+"Hafiz Abdul Haq Kameti",
+"KAMETI",
+"Muaz Kameti",
+"Tayyab kameti",
+"Choti kameti ",
+"KAMEETY",
+"Kameeti Amjad",
+"Kameti (Bakar) ",
+"Kameti Amin Sb",
+"Kametis",
+"Parvaiz Kameti",
+"Parvaiz kameti",
+"School Kameti ",
+"Kameeti Mani",
+"Abid Kameti",
+"BC/KAMETI",
+"HUMA KAMETI",
+"Kameeti ",
+"Kameeti Market",
+"Kameti sabzazar store",
+"Kametti Waqas",
+"Mom Kameti",
+"Parvaiz Kameti ",
+"kameetii",
+"Ali shah Kameti",
+"Amin Sb Kameti ",
+"Anti kameti",
+"B.C(KAMEETI)",
+"BK Kameti",
+"Car Kameeti",
+"Chachi Kameti",
+"Choburji-Kameti",
+"Engagement Kameti",
+"Fiza kameti",
+"Ibtsam kameti",
+"Kameeti Bhai Mujahid ghar",
+"Kameetti",
+"Kameety 1",
+"Kameti (bp) ",
+"Kameti 2 ",
+"Kameti Ali Hamam",
+"Kameti Di ",
+"Kameti Gujrat Lab",
+"Kameti Hafiz Nazar",
+"Kameti Hashim",
+"Kameti Johar Town ",
+"Kameti Kishwar",
+"Kameti Mom",
+"Kameti Shani",
+"Kameti baji",
+"Kameti balance Naeem",
+"Kameti muqads",
+"Kameti nikli",
+"Kameti office",
+"Kameti rubina anti",
+"Kameti shahid",
+"Kameti shop",
+"Kametti ",
+"Kametti zubir",
+"Kamety Aliza",
+"Kamety Rabia",
+"Kamety mama",
+"Mani Kameeti",
+"Monthly Kameeti",
+"Nabeela school kameti",
+"Ofc kameti",
+"Office Kameti",
+"Okara kameti",
+"P. Kamety",
+"Rabia kametti",
+"Riaz Hussain kameti",
+"Saba kameti",
+"Saddaf & Kameti",
+"Savings Kameeti",
+"Sidra kameti",
+"Super saver Kameti",
+"Zafar bhai kameti",
+"kameety",
+"kameiti",
+"kameti 104000",
+"kameti ayaz",
+"kameti loser ",
+"kameti mamu",
+"kameti nasir+farah",
+"kameti shahzab",
+"kametian",
+"kametti",
+"Kamyti",
+"Kamytees",
+"kamyti",
+"Kamyte",
+"Kamytee",
+" Kamytay",
+"Beherah roh & mokamy badar",
+"Kamyti Amount",
+"Kamytia",
+"Khala Choti Kamyti",
+"Vicky Kamyti",
+"Kamyti",
+"Kamytees",
+"kamyti",
+"Kamyte",
+"Kamytee",
+" Kamytay",
+"Kamyti Amount",
+"Kamytia",
+"Khala Choti Kamyti",
+"Vicky Kamyti",
+"Qameti",
+"Qameeti",
+"Qameti ",
+"Qamer expenses ",
+"Personal qametee",
+"Saving  (qameti) ",
+"Qametti",
+"Qameeti ",
+"Qameti 2018",
+"Qamety",
+"Qametie",
+"Qameties",
+"IHS saving qameti",
+"Qameetiii",
+"Qametee",
+"Super saver qameti",
+"Qammeetie",
+"Camety",
+"Camati",
+"Cammetty",
+"Cameti",
+"Cametee",
+"Camiti",
+"Monthly camatee payment ",
+"Camettee",
+"Camaty",
+"Cameeti",
+"Cametti",
+"Camitee",
+"Cammetti ",
+"Camaiti ",
+"CAMATTE",
+"Cametee Noreen",
+"Camyti",
+"Camatee",
+"Camatey",
+"Camayti",
+"Camity",
+"camety",
+"Cameete",
+"Cameety",
+"Cametey",
+"Cametteeee",
+"Cametti ",
+"Cammetee",
+"Camty",
+"Bc ( camtee )",
+"Camaitie",
+"Camaity",
+"Camatti",
+"Camayte",
+"Camete",
+"Cametey1",
+"Cameti ",
+"Cametti 2 Bilal",
+"Camety ashraf",
+"Camitty",
+"Cammatee & Bank Loan",
+"Cammatte",
+"Cammatti ",
+"Cammeti",
+"Cammette",
+"Cammety income",
+"Father cameeti",
+"camatee",
+"B C",
+"B c qaiser",
+"B c",
+"Committee",
+"Committee ",
+"Commitee",
+"Committe",
+"Commity",
+"committee",
+"Committees",
+"COMMITTEE",
+"committee ",
+"Committee car installment",
+"Committees ",
+"commitee",
+"Commit Adjust",
+"Commity ",
+"Monthly Committee",
+"Akhuwat & committee",
+"Committie",
+"Budget Committee",
+"Chachi committee",
+"Committi",
+"Commitee ",
+"Committee #2",
+"Saving commitee",
+"Aisha Mom Committee",
+"Committee received",
+"Loan and Committee",
+"Committee 2",
+"Committee Received",
+"Yasir Committee",
+"BC - Committee",
+"Mama Committee",
+"Committy",
+"COMMITEE",
+"Committee Home",
+"Commiti",
+"Office committee",
+"Asad's Committee",
+"Atif Committee",
+"Business Committee",
+"Committe,Mrs & Loan",
+"Committee & installment",
+"Committee office ",
+"Commity's",
+"Monthly commite",
+"Saving Commitee",
+"Shanza Commitee minthly",
+"Committe ",
+"Committee 1",
+"committe",
+"COMMITTE",
+"Committee exp",
+"Committes",
+"My committee",
+"Commite ",
+"Commitee Saving ",
+"Committe Imam sb J1",
+"Committee Baji",
+"Committee Bhai",
+"Committee payments",
+"Crew committee",
+"Lcwu Committee",
+"Saima COMMITTEES ",
+"Savings (Committee)",
+"Talha Committee",
+"Commitie ",
+"Committee 2018",
+"Committee Office",
+"Committee office",
+"Committee paymt",
+"AJMAL SAHIB COMMITEE",
+"Ali akbar commity",
+"Arslan Committee",
+"Commitee installment",
+"Commitee installment wise",
+"Committe 1",
+"Committe Waseem",
+"Committee & Bike Installments ",
+"Committee (BC)",
+"Committee - Office",
+"Committee 50000",
+"Committee AWM",
+"Committee Ami g",
+"Committee Amount",
+"Committee Fozia ",
+"Committee Friends ",
+"Committee Installment",
+"Committee Khala",
+"Committee Kids",
+"Committee Other",
+"Committee Tahir",
+"Committee's ",
+"Commity Monthly Shahkot",
+"Family Committee",
+"Hamid committee",
+"Nani Committee",
+"Office Committee ",
+"Payment of Committee ",
+"Purchase Committee Allowance",
+"Rizwan committee",
+"Savings Committee ",
+"Uzma Committee",
+"Wife committee",
+"committe ",
+"committee DHQ",
+" Committee",
+"A. Committee (21000)",
+"AAMIR Committee",
+"Acc. Payable (Committee)",
+"Accounts payable (Committee)",
+"Akhuwat & Committie",
+"Ami Committee",
+"Ami committee",
+"Ammi Committee",
+"Ammi Committee ",
+"Ammi committe",
+"Ammi committee",
+"Asif Bahi Committee",
+"Asra committee",
+"BC COMMITTEE",
+"Badar bahi committee",
+"Ballot Committee",
+"Bilal Committee ",
+"Bykea Commition",
+"COMMITTEE  Received ",
+"Commit ",
+"Commit tofail",
+"Commite",
+"Commite waheed",
+"Commitee (Rida)",
+"Commitee 2",
+"Commitee yamin jan",
+"Commitee ðŸ˜‘",
+"Commitee+ mom",
+"Commitree",
+"Committe & Mrs",
+"Committe & Mrs & Loan",
+"Committe Landlord",
+"Committe Savings",
+"Committe ac",
+"Committe paid",
+"Committed",
+"Committee  (baji shazia)",
+"Committee (BC) ",
+"Committee (Home)",
+"Committee (Monthly)",
+"Committee - Aunt. Nauheed",
+"Committee - Hina Bhabi",
+"Committee - Mama Noor",
+"Committee - office",
+"Committee 100K",
+"Committee 2000",
+"Committee 3",
+"Committee 50K",
+"Committee 6414 125",
+"Committee 7/11",
+"Committee 90K",
+"Committee BSP",
+"Committee Baby",
+"Committee Badin",
+"Committee Bank",
+"Committee Becee (Month 8",
+"Committee Benish",
+"Committee CBR",
+"Committee Colony",
+"Committee Dec 18",
+"Committee Expense",
+"Committee Fund ",
+"Committee H.J",
+"Committee Jahanzaib",
+"Committee Jampur",
+"Committee Khyban",
+"Committee Lahore",
+"Committee Monthly",
+"Committee Payment",
+"Committee Payments",
+"Committee Raise",
+"Committee SOS",
+"Committee Savings",
+"Committee Savings ",
+"Committee Shop",
+"Committee Suite",
+"Committee ahmad",
+"Committee ami",
+"Committee amount",
+"Committee income SOS",
+"Committee money",
+"Committee paid",
+"Committee payment",
+"Committee payment ",
+"Committee roshan baji",
+"Committee small",
+"Committee taking ",
+"Committee with mona",
+"Committee ðŸŽ­",
+"Committee, Dgk",
+"Committee-ahsan",
+"Committee-own",
+"Committee.. Shaibi",
+"Committeee",
+"Committeeel big",
+"Committeez",
+"Committer",
+"Committiee ",
+"Committiee Zohaib ",
+"Committt",
+"Friends Committee",
+"Ghazala popho committee",
+"Hina's committee",
+"House committee ",
+"Izhar Committee ",
+"Khawja Sadiq commity ",
+"Kiran Committee",
+"Mamma for committee taking ",
+"Marry Committee ",
+"Mdvision committe",
+"Monthly Committee (MoM)",
+"Monthly Committee (Wife)",
+"Monthly commitee ",
+"Motor cycle committee",
+"Nabila Commitee",
+"Nomi Committee",
+"Office committee ",
+"Office ðŸ¢ Committee ",
+"Papa commitee",
+"Papa committee",
+"Rent + committee ",
+"Samina Committee",
+"Saving Committee",
+"Saving committee",
+"Savings By committee",
+"Shaheer COMMITTEE",
+"Shakeel Committee",
+"Shezi Committee",
+"Taimoor Committee",
+"VP Committee",
+"Village Commite Bill",
+"Waseem Committee ",
+"Welfare Committee ",
+"Yameen committee",
+"Yamin committee ",
+"Zahida Committee",
+"bajiya Committee 1",
+"committee baji sajida",
+"home committee",
+"office committee",
+"vc (committi)",
+"Comytee ",
+"Comyti",
+"BC",
+"Bc",
+"BC work ",
+"BC INCOME",
+"BC Rukhsana",
+"BC Zameer",
+"BC/Kameti",
+"BC ",
+"BCs",
+"Monthly BC",
+"BC Wasee",
+"Quick BC -June to May 19",
+"Touqeer BC",
+"BC Faisal",
+"Picnic BC",
+"Bc asif ",
+"Bc1",
+"Obaid khan bc ",
+"BC Account",
+"Bakra BC",
+"BC Amount Transfer",
+"Bc ",
+"BC2",
+"Bc home",
+"230k BC",
+"2lac BC",
+"BC - Committee",
+"Bc ghar",
+"BC (2000)",
+"BC Amount",
+"Bc ad",
+"BC Payments",
+"Khalid bc",
+"Aunti bc",
+"Office BC",
+"Shaista bc",
+"BC Payment",
+"Bc Obaid ",
+"Bc saving",
+"Fahad BC 10000",
+"Insurance/bc",
+"Mami BC",
+"naqi bc",
+"BC1",
+"BC3",
+"Library bc",
+"bc",
+"Abba bc",
+"Ammi BC",
+"Asma khala BC",
+"BC (saving for baby)",
+"BC Amount ",
+"BC Home",
+"BC Installment",
+"BC K",
+"BC N",
+"BC Naveed+Quetta",
+"BC appi",
+"BC exp",
+"BC for Adnan n Luxman ",
+"BC payment darakshan",
+"BC/KAMETI",
+"Bc 3l",
+"Bc or Kemeti",
+"Bc zubada",
+"Bc2",
+"Bhai BC",
+"Committee (BC)",
+"DUQ Mom BC",
+"Faraz bc",
+"Fsisal BC",
+"Haidry BC ",
+"Hajj BC",
+"Installment bc",
+"Kashif bhai BC",
+"Phuppo BC",
+"RMS BC ",
+" BC",
+"500 wali bc",
+"5k bc",
+"Aapi BC",
+"Ami BC",
+"Anam BC",
+"BARI MUMANI BC",
+"BC (1500) ",
+"BC (comety) expanses",
+"BC 2ND BC RECIVED",
+"BC COMMITTEE",
+"BC Collect",
+"BC Ghar",
+"BC Hassan",
+"BC Payout ",
+"BC Recieve",
+"BC Zameet",
+"BC amount",
+"BC comettie ",
+"BC commetee",
+"BC ezan",
+"BC office",
+"BC payment",
+"BC saving",
+"BC wasee",
+"BC zohaib",
+"BC(furqan)",
+"BC-Installment",
+"BC-Savings",
+"BC-Withdrewn",
+"BC.",
+"Bc & Plot",
+"Bc ( camtee )",
+"Bc Moon mama",
+"Bc Shama ",
+"Bc bubbli",
+"Bc commeties",
+"Bc me schoo",
+"Bc nuzhat",
+"Bc shaid",
+"Bc-office",
+"Committee (BC) ",
+"HBL BC",
+"Haris BC",
+"Huma bhabi BC",
+"Khala bc",
+"Loan Pluse Bc",
+"Past 2 months bc",
+"Saba bc",
+"Salma phopo bc",
+"Sana bc",
+"Savings BC 3000",
+"Shahrukh bc",
+"Shista bc & other",
+"Umrah BC",
+"bc paid",
+"VC",
+"Vc",
+"Vc 12",
+"Vc farhan ",
+"VC Qayoom",
+"VC ismail bila",
+"B R Vc",
+"Sheba Vc",
+"vc",
+"VC Chachi",
+"Vc bill",
+"VC 15",
+"VC Farooque ",
+"VC with Salal",
+"VC ",
+"VC office",
+"Vc ",
+"Vc 50000 ",
+"Vc installment 50000",
+"Vc installment 70000",
+"B/VC",
+"Campus Vc Khana",
+"Dadu VC",
+"Govind VC Hapta",
+"Lotery (VC) ",
+"Mere VC",
+"Monthly VC",
+"Monthly vc ",
+"Rohri vc",
+"VC - Shakil",
+"VC Contribution",
+"VC to Bubly",
+"Vc 30000",
+"Vc Job",
+"Vc abu",
+"Vc atif",
+"Vc farhan",
+"Vc income ",
+"Vc loan",
+"Vc office",
+"Vc payment",
+"Vc salman",
+"Vc12500",
+"bike vc",
+"chandio vc",
+"vc (committi)",
+"Comitee",
+"Comittee",
+"Comity",
+"Comitte",
+"Comitte ",
+"Comitee ",
+"Comitteezz",
+"comittee",
+"Comitees",
+"comittie",
+"Comittee ",
+"Comittie",
+"Welfar comity abu g",
+"Comiti",
+"comitee",
+"COMITTIE",
+"Comitte.",
+"Comitty Mamoo Khalid ",
+"Loan/comittee",
+"Comite",
+"Advance Comittee",
+"Ami comity",
+"COMITEE",
+"COMITY",
+"Comitie",
+"Comities",
+"Comitte Hospital",
+"Comittee Received",
+"Comittie ",
+"Comitty M. K",
+"Office comitee",
+"Zain comittee",
+"comitte",
+"comitti",
+"given for comittee",
+"Aapa Comittee",
+"Ary comittee",
+"Awan's comity ",
+"B.comitee ",
+"COMITTEE",
+"Comite ",
+"Comiteee ",
+"Comiti (fareeda)",
+"Comitte Household",
+"Comitte udhar",
+"Comittee G7",
+"Comittee Mom",
+"Comittee Monthly",
+"Comittee Packages",
+"Comittee self",
+"Comitti",
+"Comittw ",
+"Comitty",
+"Comity ",
+"Comity profit",
+"Home & comitee",
+"Home Comitee",
+"Mama Comitee",
+"Monthly comitee to usman",
+"OFFICE COMITTE ",
+"Recived comitty",
+"Savings Comittee",
+"Shanza comittee",
+"Welfare comity khalid baba",
+"Zeeshan Comittee",
+"comitii"),
+"Wedding":("Wedding",
+"Wedding ",
+"Weddings",
+"Wedding Expenses",
+"Wedding Attending",
+"Wedding Expense",
+"wedding money",
+"Wedding decoration",
+"Wedding Loan",
+"wedding",
+"For Others Wedding",
+"Weddings Cash",
+"weddings",
+"Wedding shoot",
+"Wedding Exp",
+"Abdullah Wedding",
+"Annys Wedding",
+"Shazia Wedding",
+"Wedding Expenses ",
+"Wedding & Birthday ",
+"Dai wedding ",
+"Mehak wedding expenses",
+"Madiha wedding",
+"Raheela wedding exp",
+"Weddings ",
+"Wedding - Clothes ",
+"Wedding Expanses",
+"Maryam Wedding ",
+"Wedding Decorations ",
+"Weddings Expenses",
+"Abid wedding",
+"Wedding Trip",
+"Wedding payment",
+"Different Wedding expenses ",
+"My Wedding",
+"Samreen Wedding",
+"Wedding shoping ",
+"Aqsa wedding",
+"Arooba Wedding ",
+"Jia wedding shopping",
+"Wedding Core",
+"Wedding expense",
+"Wedding expenses",
+"Wedding shopping",
+"Family Dinner/Lunch,gift/weddings",
+"Family Wedding Gifts",
+"For wedding",
+"Loan for arsalan wedding",
+"Wedding + valima",
+"Wedding Days Expenses",
+"wedding pkr",
+"Ali's wedding",
+"Ambreen wedding advance payment",
+"Aqeel Wedding Salami",
+"Arish Wedding",
+"Aseer's Sister Wedding",
+"Avni wedding",
+"Awais ratyal's wedding ",
+"Baqir's wedding",
+"Bhai sahab wedding salami",
+"Credit card bill of wedding shoping",
+"Friends Wedding",
+"Friends wedding ",
+"Haani Wedding",
+"Kashan sis wedding",
+"Mustafa Wedding ",
+"Nishat wedding last time walima",
+"Rida's wedding ",
+"Saira's wedding",
+"Salsa's wedding",
+"WEDDING ",
+"Wedding Budget",
+"Wedding Expense ",
+"Wedding Fund",
+"Wedding Moosa",
+"Wedding Party",
+"Wedding Photography",
+"Wedding Salami",
+"Wedding anniversary ",
+"Wedding hall",
+"Yasir Wedding ",
+"Marriage",
+"Marriage ",
+"Marriage Expenses",
+"Tayeba Marriage ",
+"Marriages ",
+"Marriage Expense ",
+"Marriage ceremonies ",
+"Marriages",
+"Bilal Marriage",
+"Arshad marriage ",
+"Nehan Marriage Exp",
+"Marriage Shopping",
+"Nadeem marriage",
+"Sister Marriage",
+"MARRIAGE",
+"Marriage - Functions - Events",
+"Pikka Marriage",
+"Marriage hal. expences.",
+"Nehan Marriage Donation",
+"Rony marriage",
+"Clothing for marriage",
+"Zamar Marriage expenses",
+"Guests MARRIAGE ",
+"Sonu marriage",
+"Abrar Marriage",
+"Brother's Marriage",
+"Marriage Shopping Arsal",
+"Marriage shopping",
+"Shoping Marriage",
+"Tayyaba's Marriage",
+"Attending Marriage",
+"Lend to kabbu for marriage",
+"Marriage Cermony",
+"Marriage Hisap",
+"Marriage Loan ",
+"Marriage expenses ",
+"Marriage party expenses",
+"Marriage personal shopping",
+"Abr Marriage",
+"Friend marriage ",
+"Marriage Expenses ",
+"Marriage Hall",
+"Marriage Salami",
+"Marriage ceremony ",
+"Marriage function",
+"Mehreen marriage",
+"Salami Marriage",
+"Wasif's marriage ",
+"marriage expensive & powa",
+"Ahmad mugal marriage",
+"Aneesh sis marriage",
+"Bro Marriage",
+"Daima marriage ",
+"Family Marriage",
+"Fridge - Marriage ",
+"Friend Marriage",
+"Frnd marriage ",
+"Hamerd Marriage",
+"Incentive of marriage",
+"Marriage  Expense ",
+"Marriage Anniversary ",
+"Marriage Ceremonies",
+"Marriage Cover",
+"Marriage Gift",
+"Marriage Stuff",
+"Marriage at family",
+"Marriage c o Mahindra ..",
+"Marriage cermony",
+"Marriage chalo",
+"Marriage clothes",
+"Marriage clothes Sajjad ",
+"Marriage expenses",
+"Marriage expenses..band baja",
+"Marriage gift",
+"Marriage hall. ky kharchy. ",
+"Marriage saman",
+"Marriage shagun",
+"Nafees marriage",
+"Nasir's sis Marriage",
+"Neeoandara 4 Marriage",
+"Shehzad Marriage",
+"Sikander Sis. Marriage",
+"Zahid marriage",
+"amber marriage",
+"marriage",
+"marriage gift",
+"sari for marriage",
+"Nikkah",
+"Mehak Nikka expenses",
+"Samra Nikkah",
+"Nikka EXPENSE ",
+"Nikkah INCOME ",
+"Nikkah Ring",
+"Nikah",
+"Wife Nikah Exp",
+"Nikah ",
+"Kharch Stamp & Nikah",
+"Mudassir nikah advance",
+"Nikaah EXPENSE",
+"Rishta",
+"Afsheen rishta",
+"For Rishta",
+"Nehan's Rishta Expense",
+"Rishta Servicd",
+"Mangni",
+"Mangni ",
+"Mangni account",
+"Engagement",
+"Engagement Expenses",
+"Engagement Event",
+"Drs Engagement",
+"Engagement Gifts",
+"Engagement Income",
+"Engagement Kameti",
+"Engagement sista",
+"Faraz Engagement gift",
+"Ring Sale Engagement ",
+"Shumaila Engagement",
+"Shadi",
+"Shaadi",
+"Shadi Exp",
+"Shadi shopping",
+"Shadi ",
+"Shaadi goar wagera",
+"Shadi Expense",
+"Shadi account",
+"Shadi exp",
+"Shadi card",
+"shadi",
+"Shadi gift",
+"Shadi hall",
+"Shaadi Tyari",
+"Shaadi prep expenses",
+"Nilu Shaadi",
+"Shaadi Exp",
+"Shaadi Expense ",
+"Shaadi clothes",
+"SHAADI",
+"Shaadi nendr",
+"shaadi food",
+"Mithai shaadi",
+"Shaadi Expenses",
+"Shaadi Salami",
+"Shaadi dresses",
+"Shaadi ka kharcha",
+"Shaadi kayliye petrol",
+"shaadi",
+"Adeel shadi",
+"SHADI / B.DAY / GIFTS ETC",
+"Ahsan Ki Shadi",
+"Shadi Gift",
+"Adi Shadi ",
+"shadi mubra",
+"Shadi expenses",
+"Pindi Shadi",
+"SHADI EXP",
+"Shadi shoping",
+"Shadi (bartan)",
+"Shadi Ashoo",
+"Shadi Expanses",
+"Shadi Expenses",
+"shadi kharcha",
+"Adi shadi",
+"Shadi & Shopping ",
+"Shadi Hall",
+"Shadi expense ",
+"Baji ki shadi",
+"Noman USA for shadi",
+"Papa shadi",
+"Shadi Biya",
+"Shadi Mubarik",
+"Shadi salamian",
+"Shan Shadi",
+"saba shadi",
+"Amir Shadi",
+"Amount Given on Shadi ",
+"Mana shadi",
+"Noman shadi",
+"Saani shadi dress",
+"Shadi Shopping ",
+"Shadi expense",
+"Shadian",
+"main budget shadi",
+"Advance shadi card",
+"Ahmer Shadi ",
+"Aimen ki shadi",
+"Amir shadi",
+"Asif Shadi Nyondra",
+"Dawood shadi",
+"Farhan bhai shadi",
+"Fawad Shadi Lifafa",
+"Ibrahim ki shadi",
+"Kasur Shadi",
+"Khadim shadi",
+"Moavia Shadi",
+"NaDeeM juTT ShaDi",
+"Raheel shadi",
+"Rana jabir shadi",
+"SHADI EXPENSE",
+"SHADI Salami",
+"Shadi Account ",
+"Shadi Biahh",
+"Shadi Causon & Friend",
+"Shadi Events Expence",
+"Shadi Expence",
+"Shadi Movie Pics",
+"Shadi Payments",
+"Shadi Salami",
+"Shadi Shopping",
+"Shadi expenses ",
+"Shadi fees",
+"Shadi m diye",
+"Shadi movie",
+"Shadi py act reciveabale",
+"Shadi slaami",
+"Shadi suit",
+"Shadi sweettravelling ",
+"Shadi vistro",
+"Shadii",
+"Shadii card",
+"Shoping at azra shadi ",
+"Tahir shadi",
+"Waseem shadi",
+"Zaid shadi",
+"shadi bukan",
+"zkwan shadi",
+"Bari",
+"Bari (Maa)",
+"For Bari",
+"Jawad bari",
+"Makeup for bari",
+"S Bari",
+"bari"),
+"Office":("Office",
+"Office Lunch",
+"Office lunch",
+"Office ",
+"Office Expense",
+"Office expense",
+"Office Expenses",
+"Office expenses",
+"Office Rent",
+"Office Expenses ",
+"Office Food",
+"office",
+"Office Exp",
+"Office exp",
+"Office food",
+"Office Lunch ",
+"Office rent",
+"Office Transport",
+"Office expenses ",
+"OFFICE",
+"office lunch",
+"Office snacks",
+"Office Eating",
+"office ",
+"Office Expense ",
+"Lunch Office",
+"Office Cash",
+"Office Tea",
+"Office Expence",
+"Office Mess",
+"Office loan",
+"Post office",
+"5. Office Transport",
+"6. Office Lunch",
+"Office transport",
+"Office work",
+"OFFICE EXPENCE",
+"Office Work",
+"Office Rent ",
+"OFFICE EXPENSES",
+"Transport office",
+"Office Travel",
+"Office meal",
+"Office Loan",
+"Office Snacks ",
+"Office grocery",
+"Office lunch ",
+"Office income",
+"Office Purchase",
+"Office expense ",
+"Office Saman",
+"Office eating",
+"Office mess",
+"Office tea",
+"Salary Office",
+"Office Canteen",
+"Office fund",
+"Office staff ",
+"office exp",
+"office expence",
+"Transport Office",
+"Food in office",
+"office expenses ",
+"Office Use",
+"Food(Office)",
+"Lunch office",
+"Careem Office",
+"Office cost",
+"Office Meal",
+"Office Lunch Time Spending",
+"Office Grocery",
+"Office expanse ",
+"office expenses",
+"Office cash",
+"Office Breakfast",
+"BDF Officer's Fund",
+"Loan from Office",
+"Breakfast at Office",
+"Lunch At Office",
+"Lunch at office",
+"Office Supplies",
+"Office Transportation",
+"Office Travelling",
+"Office expence",
+"Office rent ",
+"Office stationary",
+"Taken From Office ",
+"Office Equipment ",
+"Office supplies",
+"Lunch in office",
+"Office Lightbill",
+"Office Utilities",
+"Expense office ",
+"Personal & Office",
+"Office & My Expanses ",
+"Office Dinner ",
+"Office Material",
+"food at office",
+"Office equipment ",
+"Office Income",
+"Roti in Office",
+"Office experience ",
+"Office Expanse",
+"Refreshment in Office",
+"Office Eating-out",
+"Office Launch",
+"Office Refreshment",
+"Lunch at Office",
+"Office eatouts",
+"Office expnse",
+"Office Exp.",
+"Office eating-out",
+"Office expences",
+"Head Office Load",
+"Office Entertainment",
+"Office Expenditure",
+"OFFICE LUNCH",
+"Food Office",
+"Office colleague etx",
+"Office Renovation",
+"Office Eatings",
+"Office eat out",
+"Office entertainment",
+"Office expenditure",
+"Office Bill",
+"Post office ",
+"Office Stuff",
+"Office canteen",
+"Office lunch exp",
+"Office others",
+"Rent Office",
+"Biscuit in Office",
+"Lunch in Office",
+"Office fooding",
+"Office Entertainment ",
+"Office Ptcl",
+"Office committee",
+"Office khaja",
+"Office petty",
+"Office related expenditure",
+"Office use",
+"Advance office",
+"Eating in office",
+"Food office",
+"Office BC",
+"Office Cash ",
+"Office Party",
+"Office bills",
+"Office loan ",
+"Office money",
+"Office staff",
+"Rent office",
+"Committee Office",
+"Committee office",
+"OFFICE ",
+"Office Break",
+"Office Canteen ",
+"Office Food Cost",
+"Office Fund",
+"Office Funds",
+"Office Maintenance ",
+"Office Utilities ",
+"Office all",
+"Office bill",
+"Office boy",
+"Office budget",
+"Office mobiles",
+"Office traveling",
+"office expense",
+"JERS Office sitr",
+"Bill Office ",
+"Office cost ",
+"OFFICE EXPENSE",
+"Office Tea, Entainnt, Misc. expenses",
+"Soan Office",
+"Office Eatouts",
+"Office break n lunch",
+"OFFICE EXP",
+"Personal (office +casual)",
+"OFFICE PETTY",
+"Office Transport ",
+"OFFICE PAYABLE",
+"Office renovation",
+"Office Tea and Lunch ",
+"Transport to office",
+"Office Payment",
+"Karaya Office Swl",
+"Office Expences",
+"Office Tea ",
+"Office ADC",
+"OfficeLunch",
+"Fariha Office Expenses",
+"Office Conveyance",
+"Office Boy Garhi Shahu",
+" Office Parking",
+"Office Boy Outfall",
+"In Office",
+"Office Car Park And Vallet",
+"Office Expenditures",
+"Office cash exp",
+"Office eatries",
+"Office time",
+"Conveyance Office",
+"Head Office Expense",
+"Office Khana Etc",
+"Office Lunch / Fare",
+"Office chai pani kharcha",
+"Office reimbursement",
+"Eat in Office",
+"Office break food",
+"Traveling-Office",
+"Awais Office Snacks",
+"Office + Workshop",
+"Office Materials",
+"Transportation Office",
+"Lunch (office)",
+"Office khaana",
+"Others cost (office)",
+"Office Expenses - Stars",
+"Conveyance - Office",
+"Expenses in office",
+"Extra office cost( shakil)",
+"Office Daily expences",
+"Office Expensive ",
+"Office Gulberg",
+"Office Lunch & Entertainment ",
+"Office exp. ",
+"Office Spending. ",
+"Office Tea & Entertainment ",
+"Office lunch/Breakfast",
+"Office payable",
+"Office Coffee",
+"Office Lunch Didi",
+"Office chai pani",
+"Office outing",
+"Office-Abuzar",
+"Sumon office transportation",
+"office traveling",
+"Fooding Office",
+"Nashta-Chai Office",
+"Office etc",
+"Office saman",
+"Office things",
+"I-8 Office expense",
+"Installment Office ",
+"Office Boy Outfall ",
+"Office food expenses",
+"Office sa wasool kea ",
+" Office Meal",
+"I-8 Office",
+"Office Food ",
+"Office Lunch and tea",
+"Office Meal ",
+"Snacks at Office",
+"Careem/Uber office",
+"Extra office cost",
+"Lunch - Office",
+"Model town office",
+"Office Lunch Others",
+"Petrol office",
+"SF Office",
+"Travel (Office)",
+"Eating office",
+"My Office",
+"Office Assets ",
+"Office Boy Garhi Shahu Sheraz",
+"Office Boy Outfall Sam I Ullah ",
+"Office Earnings ",
+"Office Returnables",
+"Office Tea & Refreshment",
+"Office wali",
+"Going Office",
+"Office (tea)/water ",
+"Office Khaana",
+"Office Related Espenses",
+"Office tea ",
+"AJ OFFICE",
+"Expense office",
+"Mt office ",
+"My office",
+"Office Convence",
+"Office Eating Out",
+"Office Project",
+"Office Purchasing",
+"Office Tea Expences",
+"Office Toner",
+"Office Transit",
+"Office entertainment ",
+"Office setup",
+"Office tea club+water+other",
+"Office time Entertainment",
+"To office travel",
+"office expensive",
+"Dujana Marketing Office",
+"Eating in Office",
+"Entertainment office",
+"OFFICE expenses ",
+"Office Account",
+"Office H",
+"Office Lunch Penalty",
+"Office Lunch and others ",
+"Office Misc.",
+"Office harami",
+"Office party ",
+"Bfast office",
+"Cafeteria (NLC Office)",
+"Eating out Office time",
+"For office work & TADA",
+"Mess Office ",
+"Neputer Office Expenses",
+"OFFICE DAILY",
+"OFFICE TRAVELING",
+"Office  expenses ",
+"Office Exp. ",
+"Office Snacks",
+"Office clean",
+"Office looto",
+"Office meal +samosa",
+"Office purchasing ",
+"Office tifin",
+"Petrol office ",
+"Petty cash office",
+"Tea Office",
+"Transport (School/Office)",
+"office snacks ",
+"Adeel Office Boy",
+"Committee office ",
+"F1 office",
+"Falcon Office",
+"Fare to office",
+"For office expense",
+"Income from Headoffice",
+"JERS Office site",
+"Launch @ Office",
+"New purchasing office",
+"Office  Guest ",
+"Office & Workshop items",
+"Office Boy - Overtime ",
+"Office Boy Garhi Shahu ",
+"Office Chai",
+"Office Contribution",
+"Office Daily expense",
+"Office Eatting",
+"Office Equipment",
+"Office Expdr",
+"Office Fees",
+"Office G-11",
+"Office Meals",
+"Office Mess Bill",
+"Office Mics ",
+"Office Misc income",
+"Office Parking",
+"Office Reimbursement",
+"Office Weekends",
+"Office advance",
+"Office internees",
+"Office k disi",
+"Office loan paid",
+"Office malo",
+"Office on Account",
+"Office purchasing",
+"Office receivable",
+"Office related exp and reimbursement",
+"Office snacks ",
+"Pashal/Office",
+"Reimbursement from office ",
+"Roti in office",
+"Shaid office",
+"Cash from office ",
+"Daily office income",
+"Eating stuff office",
+"Emergency Loan & Office Deduction",
+"Fuel Office",
+"G8 office transfer tax",
+"Kaya Office Swl",
+"Khana office",
+"Mama office",
+"Office Baba",
+"Office Commute",
+"Office Day Money",
+"Office Eat-out",
+"Office Event",
+"Office Expemse",
+"Office Expense - Food",
+"Office Expenses - United ",
+"Office Food Expenses",
+"Office Khaaja",
+"Office Kharcha",
+"Office Kitty",
+"Office Lunch Payment",
+"Office Lunch/Dinner",
+"Office Mess Expense",
+"Office Refund",
+"Office Tea & Refreshments",
+"Office Tea break ",
+"Office cash used",
+"Office conveyance",
+"Office daily exp",
+"Office exp behalf of Nazim",
+"Office expanse / Ashfaq Bhai",
+"Office expenses by Aynul",
+"Office fare",
+"Office food ",
+"Office kharcha",
+"Office later reimbursed ",
+"Office launch",
+"Office lunch / Breakfast",
+"Office peon salary",
+"Office petrol",
+"Office twinhub",
+"Office weekly",
+"Office works",
+"Office's Extra Expenses ",
+"Office- Lunch",
+"Personal - Office",
+"Petrol Office",
+"Reimbursement from office",
+"TA DA Office",
+"TCS office",
+"Travelling to office",
+"office food",
+"office party",
+"office staff snacks",
+"office transport ",
+"Aasma Office",
+"Advance cash for office use",
+"Advance from office ",
+"Attock Eagle Office",
+"Budget issued from Headoffice",
+"Car parking office",
+"Careem office",
+"Cold Drink in Office",
+"Committee - Office",
+"Eating â˜† Office",
+"Food office ",
+"From office",
+"Haris daily office Expense",
+"Ibne shakir office",
+"In Office Expense",
+"Lunch (office) ",
+"Malik office",
+"Medical from office",
+"Monthly office expance",
+"Nova's Office cost",
+"OFFICE LOCKER",
+"Office - Home",
+"Office Accessories ",
+"Office Back",
+"Office Boy",
+"Office Commette",
+"Office Commision",
+"Office Committee ",
+"Office Dine Out",
+"Office Enjoy",
+"Office Ent.",
+"Office Equipment/Stationary ",
+"Office Fines",
+"Office Fuel Toll etc",
+"Office Investment",
+"Office Khaja ",
+"Office Lunch Bill",
+"Office Net",
+"Office PE",
+"Office Paty Cash",
+"Office Pettey Cash ",
+"Office Petty Cash",
+"Office Reimbursement ",
+"Office Rental Payments ",
+"Office Rentt ",
+"Office Supply ",
+"Office Tea ðŸµ ",
+"Office and workshop ",
+"Office breakfast ",
+"Office claim",
+"Office comitee",
+"Office daily lunch & breakfast",
+"Office environment ",
+"Office equipment",
+"Office exp receivables",
+"Office furniture",
+"Office khaba",
+"Office khoros",
+"Office m de",
+"Office masraf",
+"Office misc Exp",
+"Office monthly rent",
+"Office petty cash",
+"Office roti",
+"Office share",
+"Office stuff",
+"Office timing food",
+"Office utilities ",
+"Office work ",
+"Office à¤¬à¤œà¥‡à¤Ÿ",
+"Office â›½ï¸ ",
+"Office ðŸ¢ Cash ",
+"Office-Other",
+"Officer",
+"Paras Office",
+"Post office Cash",
+"Pti office expens",
+"Received from office ",
+"Return Sameer or office expense",
+"Saleeem office",
+"Sandwich+office meal",
+"Savor Office",
+"Sultan office expense ",
+"Us office",
+"VC office",
+"Ward office",
+"Zong Office Rent ",
+"office Khana",
+"office cash ",
+"office pay",
+"office ssl",
+"  office lunch",
+"AG office ",
+"AR Office Costing",
+"AR Office Salary",
+"Abbu For Office ",
+"Abrar office ",
+"Account Office ",
+"Accounts office",
+"Advance office exp",
+"Advance to Office ",
+"Ajmal FD Office",
+"Akram office",
+"Allied head office",
+"Amir office",
+"BC office",
+"Bajaj office pipla",
+"Bc-office",
+"Bharatpur office rent",
+"Bhikajioffice",
+"Biscuit office",
+"Breakfast Office",
+"Burf Office",
+"Buying Office Stuff",
+"C/o office",
+"Camera repairing office ",
+"Cash from office",
+"Cash received post office",
+"Coffe office",
+"Committee - office",
+"Computer repair office",
+"Daddy for office work",
+"Daily office",
+"Daily office exp",
+"Dinner at office",
+"ENT Office",
+"Eating (Office)",
+"Eating out Office",
+"Entertainment Office",
+"Food @ Office",
+"Food Office ",
+"Food at Office",
+"Food at office",
+"Food office save",
+"For Office Expence",
+"For office saftey shoes",
+"For office vdh",
+"From Office",
+"From office expenses",
+"Fule sharing for Office going ",
+"G-8 office rent ",
+"Given to Saiful for Office expense",
+"Govt.officer Society",
+"Hand Cost from office",
+"Head Office expense",
+"Head office salaries ",
+"Headoffice (Cash in Hand) ",
+"ID card office",
+"In office payed",
+"Item Purchase Office",
+"Kameti office",
+"Khalil and office lunch",
+"Laminate office",
+"Loan From Office ",
+"Loan To Office",
+"Loan To Office ",
+"Loan from office",
+"Loan to office 1513",
+"Loan(Office)",
+"Lotry office",
+"Lunch @ Office",
+"Lunch @ office",
+"Lunch from office",
+"Lunch office ",
+"MASTUL Office",
+"Maqsood OFFICE",
+"Messing Tea Bar Lunch Office",
+"Milk (office)",
+"Mining Office",
+"Mis Office Expenses",
+"Misc Exps. - Office",
+"Model Office Expenses",
+"Monthly to office",
+"Multan office",
+"Nashta in office",
+"New Office Expense ",
+"New Purchases Office",
+"Nexgen office",
+"OFFICE 406 ENTERTAINMENT",
+"OFFICE CASH PUR",
+"OFFICE COMITTE ",
+"OFFICE LOAN ",
+"Office  Exp",
+"Office 365",
+"Office 365 ",
+"Office Activity",
+"Office Advance",
+"Office Allied things",
+"Office Amount",
+"Office BISI",
+"Office Bill ",
+"Office Boy Bike Contribution",
+"Office Boy Charity",
+"Office Breakfast ",
+"Office Budget",
+"Office Building Maintenance ",
+"Office Bulbs, Fans, Etc",
+"Office CASH",
+"Office Cafe",
+"Office Cafe Bill",
+"Office Canteen Bill",
+"Office Club",
+"Office Combine Lunch",
+"Office Comette",
+"Office Commission",
+"Office Commission Income",
+"Office Conv.",
+"Office Credit",
+"Office DD",
+"Office Debts",
+"Office Dhukuti",
+"Office Electric ",
+"Office Electric bill",
+"Office Evening Snacks ",
+"Office Expance",
+"Office Expenditure ",
+"Office Expense/ Temp",
+"Office Fare",
+"Office Fare ",
+"Office Farewell Party",
+"Office Finance",
+"Office Fine",
+"Office Food & Drinks",
+"Office Fruit",
+"Office Items",
+"Office Kameti",
+"Office Khaja",
+"Office Lend",
+"Office Lunch/Breakfast",
+"Office Maintenance",
+"Office Materials ",
+"Office Meeting",
+"Office Meetup",
+"Office Messing",
+"Office Misc",
+"Office Misc (fh) ",
+"Office Mithai",
+"Office One-Ten ",
+"Office Phe",
+"Office Printing Expense",
+"Office Program",
+"Office Refreshment ",
+"Office Rent ( March,2018)",
+"Office Rent Kar, LH, ISB",
+"Office Rent. ",
+"Office Rental LHR",
+"Office Rents",
+"Office Salary",
+"Office Sales",
+"Office Security Deposit ",
+"Office Sheld",
+"Office Stationary",
+"Office Stationery",
+"Office Tax",
+"Office Tea expenses",
+"Office Timing Expense",
+"Office Tour",
+"Office Treat TIS",
+"Office Use From My personal pocket",
+"Office Water",
+"Office Wens",
+"Office accessories",
+"Office assets",
+"Office bathoro",
+"Office bazar",
+"Office bike pntr back",
+"Office bike punture",
+"Office brunch",
+"Office bus",
+"Office cafe",
+"Office cash use",
+"Office comaitee",
+"Office committee ",
+"Office credit",
+"Office daily expense ",
+"Office dinner",
+"Office eat",
+"Office eedi",
+"Office electricity",
+"Office exp recover",
+"Office expance",
+"Office expanse",
+"Office expen",
+"Office expenditure ",
+"Office expense-food team",
+"Office expt",
+"Office food bill",
+"Office frame",
+"Office going fuel",
+"Office grocery ",
+"Office hold",
+"Office inc",
+"Office ise",
+"Office jatayat",
+"Office job",
+"Office khana",
+"Office lauch",
+"Office leaves",
+"Office loan adjustment",
+"Office loan payback",
+"Office lunch fri",
+"Office management ",
+"Office matiral",
+"Office meeting ",
+"Office misc",
+"Office monthly party",
+"Office n roof top down payment ",
+"Office net bill",
+"Office or job",
+"Office otobi table",
+"Office paid",
+"Office parking",
+"Office party",
+"Office party bill",
+"Office payment",
+"Office ptcl bill",
+"Office purchases",
+"Office purewater",
+"Office receivables",
+"Office salary",
+"Office sofa",
+"Office spray ",
+"Office tea stuff",
+"Office tex ",
+"Office tiffin",
+"Office to be paid back",
+"Office transport (Shakil)",
+"Office travelling ",
+"Office treat",
+"Office utility",
+"Office van",
+"Office withdraw",
+"Office work income",
+"Office working",
+"Office workshop",
+"Office ðŸ¢ Cash",
+"Office ðŸ¢ Committee ",
+"Office(JD Bhai) ",
+"Office-1",
+"Office-Lunch",
+"Office/ Perm",
+"Office/Hostel Eatout",
+"Officer Eating",
+"Officers mess",
+"Offices WelfareFund",
+"Personal / Office expense",
+"Personal Conveyance (House-Office)",
+"Personal Office exp",
+"Personal loan from office 70000",
+"Poshies house & office",
+"Qist Budget office",
+"ReapIr of Office",
+"Receive from Office ",
+"Refreshment office",
+"Rizwan office boy",
+"SF Office ",
+"Saving in office",
+"Saving/office",
+"Savour office",
+"Security office",
+"Shahin vay office ",
+"Sweet Treat@office",
+"Talha office",
+"Tea Office ",
+"Tea Snacks at Office",
+"Towards Office ",
+"Transport @ office",
+"Treat office khrm",
+"Treat to office ppl",
+"U.s office",
+"Utility Bills Office",
+"Vc office",
+"Waqas office things",
+"absent office",
+"kabul office Rent",
+"office advance",
+"office canteen",
+"office committee",
+"office cost",
+"office entertainment",
+"office expenses refund",
+"office food etc ",
+"office fooding",
+"office kitty fund",
+"office massi",
+"office refreshment",
+"office rent",
+"office salary ",
+"office tea ",
+"office things",
+"office transportation",
+"office use cash",
+"office welfare trust",
+"pepsi in office",
+"reuturn office",
+"travelling to office",
+"uber to office ",
+"Work",
+"Work Transportation",
+"Workers",
+"Food at work",
+"C19 Work Expenses",
+"Workplace food",
+"BC work ",
+"Worker",
+"Office work",
+"Worker pay",
+"Work expenses ",
+"Pay to workers",
+"Workshop ki sale",
+"Work Lunch ",
+"Vehicle to work",
+"Office + Workshop",
+"Work Expenses",
+"Work Temp",
+"Workers pay",
+"Work payment",
+"Work Day",
+"Work Fule & transport exp",
+"Pay to worker",
+"Work -prst off",
+"Eating at work",
+"Food at Work ",
+"Workers Salary",
+"Lunch at work",
+"Workspace",
+"Working for Dubai Visa",
+"Office Work",
+"FareWork",
+"Technical work",
+"Food@Work",
+"Stock work",
+"Breakfast, water and lunch at work",
+"Food work",
+"Worker salary ",
+"Pay To Workers",
+"Work Teml",
+"WORK",
+"work",
+"Work ",
+" Work",
+"For office work & TADA",
+"Other work",
+"worker",
+"At Work. ",
+"Events & Workshops",
+"For Work",
+"Office & Workshop items",
+"To Work Commute",
+"Work Expenses ",
+"Work done money",
+"Work expense",
+"Co-working space",
+"Working",
+"Clients work",
+"Commercial work income",
+"Hascol Work",
+"OTHER WORK",
+"OUTSIDE WORK",
+"Office works",
+"Payment For Work",
+"Rent work",
+"Work Expense",
+"Work income",
+"Workers Expenses ",
+"side work over tym",
+"work exp",
+"workshop Income",
+"Official work",
+"Workshop Rent",
+"Advance for Work",
+"Coworkers payment ",
+"DOCS WORK",
+"For work",
+"Office and workshop ",
+"Office work ",
+"Pay to Worker",
+"Payment work",
+"Personal Work",
+"Saturday work",
+"Sunday Working âš’ ",
+"Work Advance",
+"Work Exp",
+"Work Place ",
+"Work expenses",
+"Workars Advance",
+"Worker Salary",
+"Worker Salery ",
+"Workers Credit",
+"BOARD Worker",
+"Breakfast - Work",
+"Comissioned work studio fees",
+"Construction work",
+"DGK Board Work",
+"Daddy for office work",
+"Daily work",
+"Extra work",
+"Food Expenses at Work",
+"It work ",
+"JOB WORK",
+"Money Work",
+"Money for work",
+"My success work investment ",
+"OUTSIDE WORK EXP",
+"Off day wages & Pice of work",
+"Offical work ",
+"Office work income",
+"Office working",
+"Office workshop",
+"PRIVATE WORK ",
+"Part time work",
+"Private Work",
+"Private Works.",
+"Private work",
+"Purchase for work  ",
+"Valuation work",
+"Work B/fast, Lunch & Snacks",
+"Work Done",
+"Work Eating ",
+"Work Gam3ya",
+"Work Party ",
+"Work Payment",
+"Work Short",
+"Work Transport",
+"Work baverage",
+"Work launch",
+"Work payment ",
+"Worker ",
+"Worker pays",
+"Worker's selery ",
+"Workers Salaray ",
+"Working space",
+"Workout Mel",
+"work ",
+"worker salary",
+"workshop expens",
+"Company",
+"Company Expense",
+"Company expances",
+"Company Monthly Expense",
+"company",
+"Company ",
+"Company Tour ",
+"Company visits",
+"Company Ac",
+"Company M",
+"COMPANY ",
+"open company exp",
+"Company Travelling ",
+"Company Expenses",
+"Company Registration",
+"Company Bills",
+"Company Transport",
+"Company expanse",
+"Company expense",
+"Al Hadid Tech Company",
+"Company Lunch",
+"Company daily",
+"Other COMPANY EXPENSES ",
+"Company Medical Claims",
+"Company order",
+"Company Travelling Expense",
+"TQ company",
+"Umair T transfer company",
+"Company Cost",
+"Company Ex.",
+"Mezan Company",
+"Company Expense ",
+"Careem Company",
+"Company Discount ",
+"company expense",
+"Company loan",
+"Bricks company",
+"Company Fuel",
+"Company transfer",
+"Fuel from Company",
+"COMPANY",
+"Company Expenses ",
+"Loan From Company",
+"Company expenses",
+"Company food",
+"Cook by company",
+"Income of Al Hadid Tech Company",
+"Company advance",
+"Company Courier ",
+"Company cost",
+"Company rent",
+"Med Company ",
+"Udbaar company ",
+"Charity Company",
+"Company 5",
+"Company Court Fess 1700",
+"Company Expanse",
+"Company Food",
+"Company Mess",
+"Company Tours",
+"Company amount",
+"Company car",
+"Company income",
+"Company purchasing",
+"Company visit Lunch ",
+"Cook by Company",
+"HRS company",
+"Insurance In Company",
+"Lunch company",
+"Malik Company ",
+"Material for company",
+"Travel company",
+"company fuel",
+"Advance from company",
+"Advance rupee from company ",
+"Bata company multan",
+"By company",
+"Company  registration ",
+"Company GP",
+"Company Loan",
+"Company Money ",
+"Company Must",
+"Company Nocs",
+"Company Rent",
+"Company Stay",
+"Company UAE",
+"Company bike",
+"Company debt",
+"Company expense ",
+"Company expenses ",
+"Company items",
+"Company karch faisal",
+"Company online",
+"Company operation",
+"Company purchase ",
+"Company rashun",
+"Company stamp",
+"Company transaction",
+"Company visit",
+"Company's Expenses",
+"Distributions from the company",
+"Expense Company ",
+"From Company ",
+"From hassan's company",
+"Me ne company me karch Kia ho wapis ",
+"National life insurance company ",
+"New Company Reg",
+"Paid for company registration",
+"Received from company",
+"Registered company ",
+"Remaining Of Company ",
+"Rent from Kabul company to karte now",
+"Rohit and company se",
+"Rose company",
+"Transfer company",
+"petty cash company",
+"Kaam ka kharcha",
+"Kaam",
+"Kaam ki income",
+"Kaam bata ako paisa ",
+"Kaam garne lai"),
+"Friends":("Friends",
+"Friend",
+"Friends ",
+"Loan to friend",
+"Friends Gathering",
+"Friend ",
+"Eating-out Friends",
+"Friends Loan",
+"friends",
+"Eating-out with friends",
+"Friends Hangout",
+"Friend Loan",
+"Outing with friends",
+"Girlfriend",
+"Eating out with Friends",
+"Loan to friends",
+"friend",
+"With Friends",
+"FRIENDS",
+"Food and drinks with friends ",
+"Friends Outings",
+"loan to friends",
+"Friend's ",
+"Friends gathering",
+"Friend Expenses",
+"Friend Loans",
+"Loan To Friends",
+"Return to friend",
+"Loan from friends",
+"With friends",
+"Friends Outing",
+"Friends loan",
+"From Friend",
+"Loan To Friend ",
+"To friend",
+"With Friends ",
+"friend ",
+"Friends expense",
+"Lend to friend",
+"To friends",
+"friends ",
+"Friends Eating",
+"Friends tea",
+"Eating out with friends",
+"Friends eating out",
+"Food (personal,fam or friends)",
+"Friends/Colleagues ",
+"Car cng share by friends ",
+"Hotel + Friends Gathering",
+"Friends& family",
+"Tea With Friends",
+"Friends Party",
+"Uae friends",
+"Friend's On Credit",
+"Friends food",
+"Eating with Friends",
+"For Friends",
+"Friends circle",
+"Friends hangout",
+"Frienda",
+"Friends&Family",
+"Eat out with friends ",
+"Eating-out vid friends/alone",
+"friend loans",
+"Debtors friends ",
+"Entertainment with friends",
+"Friend eating out",
+"Friend support",
+"Friends Expense",
+"Loan From Friends",
+"Adnan Friends Transfer",
+"Friends & Gifts",
+"Friends Borrowed",
+"Friends Credit ",
+"Friends Eating out",
+"Friends Exp",
+"Friends expenses",
+"Friends ko loan",
+"Loan from Friends",
+"Money from Friends",
+"Tea & eat with friends",
+"Friendz",
+"Gifts friends",
+"Lent To Friend ",
+"Loan to Friend",
+"Pay Loan To Friend",
+"Taken from friends",
+"VIP Friends Gift",
+"friend loan",
+"Dinner with friends",
+"Expence to friends ",
+"Extra Expenses (Friends/Me)",
+"For friends",
+"Friend Credit",
+"Friend Transfer",
+"Friend life",
+"Friendly Expense",
+"Friends at home",
+"Friends exp",
+"Gathering With Friends",
+"Hanging out with friends ",
+"Outing With Friends",
+"Sent To A Friend",
+"Borrow from friend",
+"By friend",
+"Cash To Friends",
+"Credit Friends",
+"Dinner with Friends",
+"Eating Friends",
+"Friend ko diya hai ",
+"Friend s",
+"Friend's credit",
+"Friends Marraige",
+"Friends borrow ",
+"Friends receive ables",
+"From friend",
+"Lend money to a friend",
+"Loan form friend",
+"Loan of friend",
+"My friends and family ",
+"Payment Friends",
+"Tea with friends",
+"Zahid friend",
+"Committee Friends ",
+"DPS friends account",
+"Friend Dues",
+"Friend Lone",
+"Friend Treat",
+"Friend birthday expense",
+"Friend credit",
+"Friend help",
+"Friend marriage ",
+"Friend money back ",
+"Friend share",
+"Friend support (Hina)",
+"Friend tea shop",
+"Friends & Entertainment",
+"Friends Birthday",
+"Friends Donation",
+"From Friends",
+"Give away to friend",
+"Give to Friend",
+"Hoteling with friends",
+"Jimy Friend",
+"Loan Returned By Friend",
+"Loan To friend",
+"Loan friend",
+"Loan to Friend & FamilyðŸ‘¨â€ðŸ‘©â€ðŸ‘§â€ðŸ‘§",
+"P friend ",
+"Personal - Friend",
+"Receive from a friend ",
+"To a friend",
+"Went out with friends",
+"friends outing",
+"given to friend",
+"liability to friend ",
+" Friends Loan ",
+"A Friend In Need ",
+"Abbas friend",
+"Abid Friend ",
+"Abu friend",
+"Adda friends",
+"Balance of Friends and family",
+"Borrow by friend",
+"By friends",
+"Cash given to friend",
+"Coffee with friends",
+"Eat out / Friends",
+"Eating Out With Friends ",
+"Eating with friendz",
+"Eating-out (Friends)",
+"Eating-out with Friends",
+"Eating-out, Friends",
+"Enjoy with friends",
+"FRIEND",
+"FRIEND'S ",
+"FRIENDS HANGOUT",
+"For Friend's Lunch",
+"For friend",
+"Friend Loan Received ",
+"Friend Marriage",
+"Friend Purpose ",
+"Friend debit",
+"Friend due",
+"Friend in need",
+"Friend ko dia",
+"Friend loan",
+"Friend paid",
+"Friend pay",
+"Friend's On Credit Receivable",
+"Friende lend",
+"Friendly Loan",
+"Friends (Cakes & Gifts)",
+"Friends And Brothers",
+"Friends C & B",
+"Friends Chill",
+"Friends Committee",
+"Friends Debt ",
+"Friends Loan Payment",
+"Friends Loan Wapsa",
+"Friends Wedding",
+"Friends X",
+"Friends dinner",
+"Friends entertainment",
+"Friends exchange",
+"Friends gift",
+"Friends udhar",
+"Friends wedding ",
+"Friends with eating food ",
+"From friend ",
+"From friends",
+"Gave To Friend ",
+"Gift To Friends ",
+"Gift from Buet friends",
+"Gift sister friend ",
+"Given To Friends And Others ",
+"Given to friend",
+"Hangout with Friends ",
+"Hangouts Friends",
+"Ice-cream treat to friends ",
+"Jumma Friend kharcha plus Cultus cng",
+"Lend money to friend",
+"Lend to Friend",
+"Loan From Friends ",
+"Loan Recovery from friend",
+"Loan To Friend",
+"Loan from friends and relevants",
+"Loan to Friend & Family",
+"Loan to friends ",
+"Money lend to friend",
+"Multan Friends tour in Alipur",
+"Out in Bombay with friends",
+"Outing/Friends",
+"Outing/With Friends",
+"P friend",
+"PAF FRIENDS",
+"PG friends",
+"Party with friends",
+"Payables From Friends",
+"Payment to friends",
+"Recovery Frm friend",
+"Sent to friends",
+"Shadi Causon & Friend",
+"Tejas Friends ",
+"To Friend",
+"Transfer from friends",
+"Travel with friends (mahudand)",
+"Travelling with friends ",
+"Treat Friends",
+"Treat friends",
+"Udhar Papa friend",
+"Visit to friend",
+"found/friend/astika",
+"furniture ram friend",
+"hangout with friends",
+"loan to friend",
+"loan to friend ",
+"to friend",
+"Dost",
+"Dost Udhaari",
+"Dost ",
+"HAFIZ SHAHID DOST",
+"PAA G KA DOST RABANI",
+"Delivery Dost",
+"Dosti chai pani",
+"Doston pr",
+"Irfan k dost muhsan k ups lgaya ",
+"Load to a frend",
+"Frend",
+"Yaar",
+"Yaari",
+"Freinds",
+"Freindszz",
+"Dinner freinds",
+"Donner freinds",
+"FReiNDs MoViE ETc",
+"Freind",
+"Frind help",
+"Freinds",
+"Freindszz",
+"Dinner freinds",
+"Donner freinds",
+"FReiNDs MoViE ETc",
+"Freind",
+"Buddy",
+"Buddy loan",
+"Buddy's expense",
+"To buddy's",
+"Frienda",
+"Friendz",
+"Cr from frien",
+"Eating with friendz",
+"Friende lend",
+"Friens",
+"Friensds",
+"frienfs",
+"Lahore frnds",
+"Frnds",
+"Entertainment frnds",
+"frnds",
+"Frnd",
+"Frnds Hold",
+"frnd paid loan",
+"Eating out with frnd",
+"Frm Frnds",
+"Frnd gn",
+"Drinks frnds",
+"RIZWAN FRND",
+"To frnd",
+"loan given to frnd",
+"Credits by frnds",
+"Frnd ",
+"Frnd marriage ",
+"Frnd transfer",
+"Frnd udhar",
+"Frndz Time",
+"Kamran frnd",
+"Owe To Frnd",
+"Party night wth frnds",
+"frnd expense",
+"frnds party ",
+"give to frnd",
+"Frn",
+"With frns",
+"Frn bday",
+"Frns chargr",
+"Boys scene dinner tea",
+"Party Scene",
+"Scene kia",
+"Yari expense",
+"Boys Chai",
+"Boys scene dinner tea",
+"Boys",
+"Girlfriend",
+"Girls",
+"Girls ",
+"Girlie ",
+"Suffah girls",
+"Ali Habi, Budies, Khan"),
+"Gifts":("Gifts",
+"Gift",
+"Gift ",
+"gift",
+"Cash Gift for Ceremonies",
+"GIFT",
+"Charity & Gifts",
+"Gifts ",
+"Guests/Gifts",
+"Birthday gift",
+"Gifts and celebrations",
+"GIFTS",
+"Birthday gifts",
+"Family & Gifts",
+"Donation/Gift",
+"Gift/Donation",
+"Donations/Gifts",
+"Neuta Gifts Eidi",
+"gifts",
+"Gift & Donations",
+"Gift Received",
+"Recieved As a Gift",
+"Gifts & Donation",
+"Gift money",
+"Gift Money ",
+"Gifts & Donations",
+"Gifts/ Hadiya",
+"Dad gift",
+"Gift Money",
+"Gifting",
+"As Gift",
+"Gift/Salami",
+"Gifts ðŸ“¦",
+"17. Gift",
+"Mother Gift",
+"Gift Packing ",
+"Gift Card",
+"Gift Refund",
+"Gift To Parents",
+"Gift, Farewell & FT",
+"Gifts and Donations",
+"Gifts for Family",
+"Shadi gift",
+"Gifts sila rehmi",
+"Gift and hospitality",
+"Gift fairy and Giftoria",
+"Gift + Donation ",
+"Gifts n cash ",
+"SHADI / B.DAY / GIFTS ETC",
+"Gifts & Charity",
+"Baby's gift money",
+"Gift/In-Law",
+"Ocassional Gifts",
+"Gifts (Birthdays, Anni etc.)",
+"Shadi Gift",
+"Savings/Eidi/Gifts",
+"gift/cover",
+"Cash Gifts",
+"Eid gift",
+"Gift or cover",
+"Gifts/Party",
+"N.Gift Expense ",
+"Cash Gift Wasim",
+"Cash gifts",
+"Gift Income",
+"Gift from baba",
+"Allowances & Gifts ",
+"Cash gifted",
+"Friends & Gifts",
+"Gift and charity",
+"Gifts or Hibah",
+"Gifts/ceremonies",
+"Love Gift",
+"Birthday ðŸŽ‚ Gift",
+"Cash Gift BABA",
+"Cash Gift MAMA",
+"Gifts friends",
+"Gifts to family",
+"VIP Friends Gift",
+"Cash Gift Ateeb",
+"Cash Gift wife",
+"Gift kkm",
+"Gift to Myself",
+"Gifts - Home ",
+"Gifts / Farewell ",
+"Gifts ðŸ“¦ ",
+"Monthly Gift From Big B",
+"Nayab gifts etc",
+"Arzoo gift",
+"Baby gift",
+"Birthday gift ",
+"Cash Gift Aseef",
+"Dolly gifts",
+"Family-n-Gifts",
+"Gedu-Gifts",
+"Gift Fariy",
+"Gift Split",
+"Gift or Hiba",
+"Giftings",
+"Gifts+ Guests",
+"Give gift",
+"Graduation gifts",
+"Lovegift",
+"Making Handmadegifts ",
+"Masu gift",
+"Musab Gifts",
+"N.Gift",
+"Papa Income Gift ",
+"Recd as gift",
+"Bacha gift",
+"Birthday gift.",
+"Cash gift",
+"Donations/Charity/ Gifts",
+"Dua's gift",
+"Eid Gift",
+"Family Dinner/Lunch,gift/weddings",
+"Family Wedding Gifts",
+"Gift Fairy",
+"Gift from mother",
+"Gift hubby",
+"Gifted",
+"Gifto",
+"Love gift",
+"Meghna bday gift",
+"Neuta and Gifts",
+"Parents Gift",
+"Personal Gifts/Donations",
+"Result Gift",
+"Russel gift",
+"Wartao / Gifts ",
+"uneeza gift",
+"Abby gift",
+"Adeeb gift",
+"Aleena Gift",
+"Amma Gift",
+"Ammi's birthday gift",
+"Anam... For Ashar Gift",
+"Anjali lai gift",
+"Apa gifts",
+"Ashu Gifts money. ",
+"BD Gift",
+"Bd gifts",
+"Bhai Gift",
+"Birthday Gift",
+"Birthday Gift Shampa",
+"Cash Gift Assef",
+"Chaukidar diwali gift",
+"Chill out + bday gift",
+"Co.gift",
+"Dad dashain gift",
+"Dlawer.gift",
+"Engagement Gifts",
+"Faizan kid Gift",
+"Falero gift",
+"Family Gifts",
+"Family gift",
+"Faraz Engagement gift",
+"Ficheey gift+atit babu gift",
+"Friends (Cakes & Gifts)",
+"Friends gift",
+"Gift Amount",
+"Gift Asad",
+"Gift From Astami Dii",
+"Gift From B Brother For papa visit",
+"Gift From Rabi ",
+"Gift Krachi",
+"Gift Other",
+"Gift Purchase for Pinku",
+"Gift Rom",
+"Gift To Friends ",
+"Gift abbu",
+"Gift amount",
+"Gift brother sister mom",
+"Gift by Public",
+"Gift by Zohaib",
+"Gift fatima imran",
+"Gift for Uzair",
+"Gift for mom",
+"Gift from Buet friends",
+"Gift from Mother in Law",
+"Gift from mustang",
+"Gift from noura",
+"Gift in Cash",
+"Gift iram",
+"Gift papar",
+"Gift shopping for shp",
+"Gift sister friend ",
+"Gift to Moiz ",
+"Gift to meena",
+"Gift, vilakku",
+"Gift-",
+"Gifting Exp",
+"Gifts For Zainab",
+"Gifts Given",
+"Gifts Money",
+"Gifts and capital expense",
+"Gifts and visits",
+"Gifts from people",
+"Gifts from relatives ",
+"Gifts money",
+"Gifts, Events, Gatherings",
+"Gifts/fmly",
+"Gold gift",
+"Grandma gift",
+"Hafiz Zohaib Gift Hashir",
+"Halwa gift",
+"Haya gifts",
+"Ibrahim car gift",
+"Imran gift shop",
+"Kajol Najmul kids gift",
+"Kids gifts",
+"Lathu Gift",
+"Loan+gift+ Bill pay",
+"MOM'S Gifts",
+"Mahi birthday gift ",
+"Manager gift",
+"Marrage gift charges.",
+"Marriage Gift",
+"Marriage gift",
+"Mehedi vai gift",
+"Miqdad gift",
+"Mobile Gifts",
+"Monthly Gift (son)",
+"Monthly Gift From B Brother.",
+"Monthly Gifts",
+"Nadia gift",
+"Naheen gift",
+"Naveed gift",
+"Neuta Gifts Eidi Refunds",
+"New year gift",
+"Omi Home Eid Gift",
+"Oven purchase gift",
+"Personal Gifts",
+"Personal gift money",
+"Pocket Money and Gifts",
+"Raksha Bandhan + Gift wrap",
+"Rakshi gift",
+"Random Gifts",
+"Rehman Cheema Gift ",
+"Samia birthday gift",
+"Sara gift",
+"Sehr bday gift",
+"Shawls and Gifts",
+"Sidra gift",
+"Sumera gift",
+"Susaral gift",
+"Sweets and gifts",
+"Teacher's Day Gift",
+"Tripti Gift",
+"Watch and gift",
+"Zunair Birthday Gift",
+"biju gift",
+"gift to maser",
+"gift âž• zikat",
+"marriage gift",
+"naveed bahi ka welcome gift",
+"sajid son gift",
+"ðŸŽ gift",
+"PRESENTES ",
+"Family Presents",
+"Presents",
+"Present",
+"Cakes and presents",
+"Eidi",
+"EIDI",
+"Neuta Gifts Eidi",
+"Eidi ",
+"EIDI ",
+"eidi",
+"Savings/Eidi/Gifts",
+"Eidi On Eid",
+"EIDI  Eid,ul,fitar june18",
+"fiza eidi",
+"Eidi Ac",
+"Prize Winning Eidi",
+"EIDI OYEE",
+"Eidi plus",
+"Eidi Mithai",
+"Eidi To Family ðŸ‘ª ",
+"Eidii",
+"Choti Eidi",
+"EIDI GIVEN",
+"Eidi Collections",
+"Eidi Funds ",
+"Eidi Receive",
+"Eidi ad",
+"Prize Winning Eidi Refunds",
+"Quarter bonus eidi",
+"Ali Eidi",
+"Azhar Eidi",
+"EIDI GIVEN ",
+"Eidi Etc. ",
+"Eidi For Kids",
+"Eidi Special ",
+"Eidi To Christian ",
+"Eidi given",
+"Eidi hareem saad",
+"Eidi home",
+"Eidi kashif bhi ",
+"Eidi madiha ",
+"Eidi over all ",
+"Eidi+pocket money",
+"Eidiand naila",
+"Hassan eidi",
+"Neuta Gifts Eidi Refunds",
+"Shany eidi",
+"Shop Eidi",
+"Sweet & eidi aniza",
+"William  Eidi"),
+"Medical":("Medical",
+"Medicine",
+"Medicine ",
+"Medicines",
+"Medical ",
+"medicine",
+"Medicines ",
+"Medical Reimbursement",
+"medical",
+"Medical Claim",
+"8. My Medical",
+"Medical exp",
+"19. Fatima Medical",
+"Fatima Medical",
+"Medical Allowance",
+"Medical Reimbursement ",
+"Meds",
+"PIA MEDICAL REIMBURSEMENT ",
+"Medicine purchase",
+"Medical / Kids",
+"Medication",
+"Medical allowance",
+"MEDICINE",
+"MEDICAL",
+"Medication ",
+"Children Medical",
+"Medico",
+"Medicen",
+"Dado medication",
+"Medical expense ",
+"Med",
+"Fuel and Medical",
+"Ami medicine",
+"Meds and cigs",
+"Medical & Medicine",
+"Ammi medi",
+"Medical (Non Recoverable)",
+"Medical (Refundable)",
+"Claimed",
+"Mom Medical",
+"Medical Charges",
+"Medicin",
+"Kids Medical",
+"Medical Returns",
+"Medical Treatment",
+"Medical (Non Refundable)",
+"Medical / Spouses",
+"Yasir medicine",
+"Medical Expense",
+"Medical Test",
+"Baby Medical ",
+"Medical Refund",
+"Medical Treatment ",
+"Medical store",
+"Medican ",
+"Personal medicines",
+"Medical Insurance",
+"Medical reimbursement",
+"Sold Medicine",
+"Medison Perchase",
+"Purchase Medicine",
+"Emkay Medical",
+"Medicines for MinDoktor",
+"Shop medicine agent",
+"Medicine/Medical",
+"Medical/Dr/Madicin",
+"Shahzad medicine",
+"Ammi Medicine",
+"Rabia medical expenses",
+"Fariha Medical P",
+"Medicine Expense",
+"Ammi Jaan Medicine ",
+"Medicines/Drips/Blood",
+"Rabi Medical",
+"Medical (HIH)",
+"Medical Store ",
+"Ami Medical ",
+"Zunair Medicine ",
+"Company Medical Claims",
+"Madni Medicine ",
+"Medical& medicine",
+"Medicines /Medical Store Bill",
+"QSD MED",
+"Doctor & Medicine",
+"MEDICAL EXPENSES",
+"Medical prajyot",
+"Medical tests",
+"Mom meds",
+"Sonal Medical",
+"Ami Dady Medical ",
+"Haseeb Medicines",
+"MIX(med/load/food) ",
+"Medical (Medicines)",
+"Medical Income",
+"Medical, Medicine and Doctor",
+"Medical-Bakhshish",
+"medicin",
+"3. Medical",
+"AR Medical",
+"Family Medical",
+"Fuel/Medical",
+"Hospital Medical",
+"Medical insurance",
+"Medical test",
+"Ami medi",
+"Anshu med.",
+"FARAH MEDICAL",
+"Medical / Health",
+"Medical Bill Payment ",
+"Medical Check-up",
+"Medical Examinations ",
+"Medical Reimburseable",
+"Medicine & Medical ",
+"Pharmacy - Medical",
+"Uzair Medicine ",
+"baby medication ",
+"MAYURI MEDICAL",
+"Medical & Travel THA",
+"Medical Acctt",
+"Medical Claims",
+"Medical Reimbers",
+"Medical ðŸ˜· ",
+"Medicene",
+"Medicine for Cattle ",
+"Medicine for Ma",
+"Our Medical",
+"Ø¯ÙˆØ§ medicines ",
+"Ammi dialysis and medicine",
+"Anam medicin & Doctor Fee",
+"Babay medical",
+"Feed & Medicine ",
+"Home-Medical",
+"Mariam medician",
+"Med Mom",
+"Medical Aid",
+"Medical Asila",
+"Medical Books",
+"Medical Kids",
+"Medical for family",
+"Medical insurance ",
+"Medicine General ",
+"Medicine Khalid",
+"Medicine bill",
+"Medicine for Manik",
+"Medicine purpose ",
+"Private Medicine",
+"Samina medicin",
+"Unclaimed amount",
+"zoha medication",
+"Anam medicin ",
+"Animal Medicine ",
+"Animals Medical",
+"Big B Medical",
+"Clinic med ",
+"Dadiji medication",
+"Health & Medical",
+"Hirav Medical",
+"Kanha Med",
+"Laxman - Medical Etc",
+"MEDICAL ",
+"Madni Medicine",
+"Medecine",
+"Medical Cure ",
+"Medical Fees",
+"Medical Mom n Dad",
+"Medical Pannel",
+"Medical Self n family",
+"Medical expense+insurance+physio",
+"Medical sehrish",
+"Medicine /Hakeem",
+"Medicines/Hospital",
+"Nid medicine",
+"Official Medical",
+"Personal Medical",
+"Personal-Medical",
+"Wajia medicine",
+"Wife Medicine",
+"medicine apni amii",
+"personal medicine purchase",
+"Ammi Medical",
+"Aryan Medical",
+"CCC MED",
+"Casper Medical",
+"Drug & Medicines",
+"Faiqa medicine ",
+"Hafi Medicines",
+"Home Medicine",
+"House Medical",
+"Jhilimili Medicine",
+"Med Company ",
+"Medecin",
+"Medic",
+"Medical (Family)",
+"Medical / General",
+"Medical Expenses",
+"Medical Reimb",
+"Medical Saju",
+"Medical Sharuhk",
+"Medicine (Nishu)",
+"Medicine home",
+"Medicine purposr",
+"Medicine/ Doctor",
+"Medicines/Tabs",
+"Medicines/Tabs/Drips",
+"SEERET MED",
+"Wajia medical test",
+"ami medi",
+"eye meds",
+"medical ramin",
+"medical store payments ",
+" medicine ",
+"18. Fatima Medical",
+"ARIF medicine",
+"Aisha medicine",
+"Ammo medicines",
+"Annual Medical Aid",
+"Asg medicine",
+"Aumber medical expenses",
+"Baba Medicine",
+"Babar medicine",
+"Birds Medicine ",
+"Farah medical",
+"H MEDICINE",
+"Hafsa medi",
+"Home medicine",
+"Insurance-medical card",
+"Mama medical",
+"Me Medical",
+"Med Re-Imburs",
+"Med Self",
+"Med TahirB",
+"Med WS",
+"Medical Checkups & Medicines",
+"Medical Imbursement",
+"Medical Instrument ",
+"Medical Isa",
+"Medical Ramza ",
+"Medical Ramzan",
+"Medical Store",
+"Medical chq",
+"Medical doctor",
+"Medical from office",
+"Medical reimbursements",
+"Medicine & Supplementation",
+"Medicine (Somogel)",
+"Medicine Clinic",
+"Mediplus",
+"Name of Medicine",
+"Pad/medicines",
+"Parent's medical",
+"Parents medical",
+"Poultry medicine ",
+"Sarfo medicine",
+"Shama Medical ",
+"Shashuri Medicine",
+"Shoaib medical stor",
+"Sis's Medical",
+"Uji Medical ",
+"Unpaid medical",
+"Zahra Medical",
+"medication",
+"moms med ",
+"skin medicine",
+"AMJAD MEDICINE",
+"AMi Medicn",
+"Abbasi farma medicine",
+"Afzaal medicose",
+"Akhtar Medicine",
+"Al aziz medical",
+"Ammi Shoes, MEDICAL",
+"Ammi medicine",
+"Ammi medicine ",
+"Amy medicine",
+"And Medicle",
+"Animal medical",
+"Asad Medical",
+"Babi medical tesy",
+"Beenish Medical",
+"Bhupesh medicine",
+"Bilal medicine",
+"Booking Medicin",
+"Breakfast after medical",
+"Car seats aor medicine",
+"Cat medicine",
+"Cerebrase (medicine)",
+"Chai medicine",
+"Chicken karahi roti pepsi medicines",
+"Clinic big med",
+"Clinic med",
+"Clinic/Medicine",
+"Debit medicine amount",
+"Desi medicine",
+"Di medicine",
+"Digital medicine ",
+"Dixa give to me when going to medica",
+"Doctor & Medicines",
+"Doctor and Medicine",
+"Doctor+medicine +travelling",
+"Dogy Medicine",
+"Dr fees and medicine",
+"Dr fees n medicine 2",
+"Dr+Medicin",
+"Education (or) Medical ",
+"Eergency medicine purchasing",
+"Ejaz medicine",
+"Eye med",
+"Eye medicine",
+"Family Medication",
+"Family Medicine ",
+"Farm medicines ",
+"Farzana medicine",
+"Fatima Medicine",
+"Fatima Medicine ",
+"Fd Medd",
+"From Medicine",
+"Fuel&Medical",
+"Germi medical expense",
+"Given to visa agent for medical",
+"Gogo Aunti Med",
+"Gogo med",
+"Guggu Medicine ",
+"Habib medical",
+"Hakeem Med",
+"Hapicit mom medicine ",
+"Haris medical",
+"Health & Medicine 6110",
+"Homeophatic medicine",
+"Injection+other medicine ",
+"Investment for venture Medsmith",
+"Iqra Medical Loan",
+"Irfan medicos ",
+"Janjua med store",
+"Javeria medicle",
+"Kamran medical",
+"Khalid medici e",
+"Kiran Medicine",
+"Kiran Medicine ",
+"Last Month Medicine",
+"Loan from Mohsin for medical",
+"MEDICINE INCOME",
+"MEDICINES BILL",
+"Maham medi",
+"Mam medicen",
+"Mama Medicine ",
+"Masud medical hall",
+"Med M",
+"Med Reimbursement From Ami",
+"Med Store",
+"Med cost",
+"Med reimburse",
+"Med/cigarette ",
+"MedRep Salary",
+"MediLife app",
+"Medical - Komal's Due",
+"Medical ALICI",
+"Medical Allounce",
+"Medical Allowence ",
+"Medical Asia",
+"Medical Bill",
+"Medical Bill ",
+"Medical Cash Back",
+"Medical Dentist",
+"Medical Facility",
+"Medical Instrument",
+"Medical Non reimburseable",
+"Medical Payments",
+"Medical Reimburse ",
+"Medical Return",
+"Medical Shahla ",
+"Medical Test & Checkup ",
+"Medical adhya",
+"Medical bill",
+"Medical bills",
+"Medical checkup",
+"Medical claim",
+"Medical claim from ZIL",
+"Medical credit",
+"Medical erv",
+"Medical exp.",
+"Medical expense + health insurance",
+"Medical expenses",
+"Medical from acpl",
+"Medical reimbursement ",
+"Medical reversal",
+"Medical sajid",
+"Medical ðŸ’‰ðŸ’ŠðŸ’‰ðŸ’Š",
+"Medical+Emirates I'd Typing",
+"Medical/medicins",
+"Medicale",
+"Medicals Tests",
+"Medican",
+"Medicen babies",
+"Medicine (amma)",
+"Medicine / 2 months ",
+"Medicine Coat",
+"Medicine Cost ",
+"Medicine Doctor",
+"Medicine Expenses",
+"Medicine Home",
+"Medicine Nani ",
+"Medicine etc",
+"Medicine expense",
+"Medicine for shamma",
+"Medicine return",
+"Medicine rus ",
+"Medicine shamma and eggs",
+"Medicine_Mother",
+"Medicines  ",
+"Medicines Bill",
+"Medicines etc",
+"Medicines/Doctor",
+"Medicins",
+"Mediclaim",
+"Medicn ami Daraz.com",
+"Medicn+Eating",
+"Medicne",
+"Medicns",
+"Medicune",
+"Mediexcel",
+"Medinice muneeza operation",
+"Medixal",
+"MedlicS",
+"Meducine",
+"Milk and Medicen",
+"Mom Medicines",
+"Mom's Meds",
+"Mother Medicine/Food",
+"Mother's Medicine",
+"Mummys Medical",
+"My Medicine",
+"My med",
+"NAJMA MEDICAL",
+"Nafisa medisin",
+"Nana Abu Med",
+"Nanis meds",
+"Nano Medical",
+"New Star medical adjust",
+"Nisa medicine",
+"Omer skin medicine",
+"PG Medical",
+"Papa Medical ",
+"Papa medicine after discharge",
+"Pappa Medical",
+"Paras medical",
+"Pay to medicine shop",
+"Pefumes & medicines",
+"Piles medicin",
+"RC Med",
+"RD: Medical",
+"RIDA MED DR SALEEM",
+"RIDA SEERET MEDICINE",
+"Raas+Medicine",
+"Riksha and medicine at kherva",
+"Roti,medicine eggs",
+"SEERET ALIA MED",
+"SGR medicose",
+"Saim Medicine ",
+"Sarojmummy medicine",
+"Sehrish medicine",
+"Shahid Mehmood Medicine",
+"Shahid mamon Medicine ",
+"Shahida Medicine ",
+"Shan medical",
+"Sharuhk medical",
+"Shave & medicine",
+"Shezade medical",
+"Shital Medicine ",
+"Shoping/ Medical",
+"Sicial Media",
+"Sitara medicine",
+"Skin medicine ",
+"Soup & medical",
+"Store Medicine Sale",
+"Sumon Medicine",
+"Travelling and medical",
+"Veterinary medicine plus food",
+"Wajia medine plus rickshaw",
+"Wajia visit to dr shafqat plus medcn",
+"Wajih and med",
+"Wife Medical & Other",
+"Zain medicine plus porches",
+"ammi medical",
+"asma medicine",
+"awais bilal2 medicine ",
+"clinic medicine",
+"kabina medical",
+"medical claim",
+"medical dog",
+"medicence",
+"medicines",
+"medicle tests",
+"medicn arifa",
+"memoona medincien",
+"methicball medicine",
+"pops medicine ",
+"remedies",
+"wife medication transprt",
+"Dawai",
+"Dawa",
+"Cow dawai",
+"Ami Dawai",
+"Abbu Ki Dawa",
+"Avoidable bahar ka khana and dawai",
+"Dada abu dawai",
+"Dawae",
+"Dawai + razmalai wagira",
+"Dawai haji sb",
+"Dawaii..",
+"Khalas dawae",
+"Nano ke dawai ",
+"Phophos dawae",
+"Rubab bemar",
+"father illeness",
+"Baby illnes",
+"Hassan illness misc",
+"Cough syrup",
+"Medical Treatment",
+"Laser Treatment ",
+"Medical Treatment ",
+"Treatment ",
+"sourav vai treatment",
+"Mom's Treatment",
+"General Hospital Head of Fahad Treat",
+"Saima treatment",
+"Hassan treatment",
+"Doctor Treatment ",
+"Maria's Treatment",
+"Treatment Budget",
+"Hair Treatment ",
+"Hairtreatment and dressing",
+"Joint treatment",
+"Lessor Treatment ",
+"Treatment",
+"Treatments",
+"Werrick Pharma Treat",
+"sourav vai treatment ",
+"Health",
+"Fruits And Healthy Diet",
+"Health ",
+"Health & Beauty",
+"health",
+"Health and Fitness",
+"Health & Fitness",
+"Healthy food",
+"Health Hygiene",
+"Healthy Food",
+"Health n beauty",
+"Healthcare",
+"Visit Health Labs",
+"Health fruit",
+"Medical / Health",
+"healthy & Beauty",
+"Food + Health",
+"Health & Medical",
+"Health Services ",
+"Healthy Eat",
+"Mental Health",
+"Body & Healthy",
+"Health - Pharmacy ",
+"Health Insurance",
+"Healthy Living ",
+"Surgeon Fee Health Labs",
+"healthy",
+"Cosmetics and healthcare",
+"HEALTH",
+"Health Fitness",
+"Health and fitness",
+"Health insurance",
+"Healthiness ",
+"Healthy Eating ",
+"ðŸƒ Health ",
+"Epic Health Care center",
+"For health and dadu ",
+"Fruits n health",
+"Health & Beauti",
+"Health & Medicine 6110",
+"Health - Scans",
+"Health And Fitness",
+"Health Care",
+"Health Care ",
+"Health Diet",
+"Health Drinks for Ma",
+"Health Option ",
+"Health and hygiene",
+"Health cost",
+"Healthy Diet",
+"Healthy Wat",
+"Healthy diet",
+"Home health buget ",
+"Insurance life and health",
+"Medical expense + health insurance",
+"Mom n dad health",
+"Self health",
+"bad health",
+"body&health ",
+"healthcare",
+"Pain & Ortho Rehab Clinic",
+"Pain & ortho Rehab clinic",
+"Dentist",
+"Mamo Dentist",
+"Dentist ",
+"DENTIST",
+"Dentistry Recall ",
+"Medical Dentist",
+"Dental",
+"dental",
+"Dental colleg",
+"Amc dental",
+"Dental college ",
+"Cosmetic Dental Care ",
+"Dental  college ",
+"Dental material ",
+"DENTAL",
+"Dental materials",
+"Dental technician",
+"ACCIDENTAL",
+"Accidental",
+"Accidental Loss",
+"Dental Charges ",
+"Dental Materials",
+"Dental appointment",
+"Loan for Dental",
+"Modern Dental Clinic ",
+"Sherif Bishara Dental Clinic ",
+"Hospital",
+"Hospitality",
+"Hospital ",
+"Hospital Income",
+"Natt Trust Hospital",
+"Life Care International Hospital",
+"Hospital expenses",
+"Guests & Hospitality ",
+"Maryam Hospital",
+"Gift and hospitality",
+"Hospital Visits/OPDs/Admit",
+"General Hospital Head of Fahad Treat",
+"Hospital Expenditure",
+"Hospital expense ",
+"Clinic Qureshi hospital ",
+"Agha khan hospital",
+"Hospital Expense ",
+"Hospital Medical",
+"Hospitalization",
+"Neha Hospital",
+"Ramzan hospital",
+"Hospital Expenses",
+"Hospitality ",
+"Zobia Hospital",
+"hospital khana",
+"Hospital Interment ",
+"Hospital Patient Refers fee",
+"Zoha hospital",
+"Medicines/Hospital",
+"Careem for Iqra Hospital ",
+"Comti hospital",
+"Hospital bills",
+"Hospital fund",
+"Iqra Hospital ",
+"Visitors and Hospitality",
+"Wajia uber to sheikh zaid hospital",
+"AKU hospital ",
+"Behria Hospital",
+"Comitte Hospital",
+"Doctors hospital",
+"For Family Hospitality",
+"HOSPITAL",
+"Hospital Share ",
+"Hospital bill ",
+"Hospital expense",
+"Hospital related",
+"Hospital zakia",
+"Madem fees hospital",
+"Services hospital lahore",
+"Al rehman hospital",
+"Bone care hospital",
+"CT Angiography General Hospital",
+"Chenab Hospital",
+"Dewan benazir hospital",
+"Doctors & hospitals ",
+"Fdpp consumer shalamar hospital",
+"Fishtail hospital",
+"Fupu minu foods Hospital ",
+"Hammad hospital",
+"Hospital Bill",
+"Hospital Expense",
+"Hospital Parchi ",
+"Hospital Purchase",
+"Hospital Salary",
+"Hospital Test",
+"Hospital anti",
+"Hospital bill",
+"Hospital canteen",
+"Hospital comeety",
+"Hospital fee",
+"Hospital injection for BG",
+"Hospital kharcha",
+"Hospital petrol",
+"Indus hospital ",
+"KK (Om Hospital)",
+"Metrocity Hospital",
+"National Hospital",
+"Noor hospital visit",
+"Orange Juice (KEM HOSPITAL)",
+"Refund hospital",
+"Services hospital",
+"Shalamar hospital admit fee",
+"Tania hospital",
+"Visiting at hospital",
+"Wajia hospital rickshaw",
+"Wajia sheikh zaid hospital uber",
+"hospital",
+"Medical/Dr/Madicin",
+"Madision",
+"Buy Madicine ",
+"Madisan",
+"Maa Madison",
+"Madicens",
+"Madison ",
+"Abbu (madicin)",
+"Abu Madican",
+"Dadi madican",
+"Father Madical",
+"Madical Discount",
+"Madical fitns goli",
+"Madican ",
+"Madicen",
+"Madison",
+"Papa madical",
+"Usman bhai madicine",
+"madicine",
+"Pharmacy",
+"Pharmacy ",
+"GKB pharma",
+"Saishka Pharma",
+"Life Care Pharmacy",
+"MH Pharma",
+"Chethana pharma",
+"Dixon pharma",
+"Shree Pharma ",
+"Pharmacy - Medical",
+"Pulse Pharma",
+"dixon pharma",
+"Sagar pharma",
+"Health - Pharmacy ",
+"Pharmacy Payment",
+"Pharma",
+"Samar Pharmacy",
+" SK+F PHARMACEUTICAL",
+"City Pharmacy ",
+"Doctor Pharmacy ",
+"Haq pharmacy",
+"Ici Pharmaceuticals ",
+"LAHORE PHARMA PLUS",
+"OBS Pharma",
+"PHARMA",
+"PHARMACIE",
+"Pharma purchase",
+"Pharmacy bills",
+"Polyfine Pharmaceuticals ",
+"Doctor",
+"Doctor ",
+"DOCTOR",
+"Doctor fees",
+"Doctor fee",
+"Doctor expense",
+"Doctor Fee",
+"Doctor Expenses",
+"Doctor & Medicine",
+"Medical, Medicine and Doctor",
+"Doctor exp",
+"Doctor Treatment ",
+"Doctor Checkup ",
+"Anam medicin & Doctor Fee",
+"Doctor Fees",
+"Doctor visit",
+"Doctor for Manik",
+"Doctors and checkup",
+"Medicine/ Doctor",
+"Amna clinic Doctor needle ",
+"Doctor expenses",
+"Doctors hospital",
+"Medical doctor",
+"zoha doctor",
+"Ariya Doctor",
+"Babies Clothes Or Doctor Expenses",
+"Doctor & Medicines",
+"Doctor Activities",
+"Doctor Activity ",
+"Doctor Ather lab test",
+"Doctor ENT",
+"Doctor Fee & Test",
+"Doctor MBBS",
+"Doctor Pharmacy ",
+"Doctor and Medicine",
+"Doctor jazam",
+"Doctor n bedsheets",
+"Doctor+medicine +travelling",
+"Doctors & hospitals ",
+"Eye Doctor and glasses",
+"Medicine Doctor",
+"Medicines/Doctor",
+"Ranu Doctor",
+"Shafaq doctor",
+"Tea doctor",
+"daniya doctor",
+"wife doctor fee",
+"Dr fees",
+"Dr Asif Huawei y7 prime blue ",
+"Dr imran",
+"Dr Aslam",
+"Dr Samee",
+"Prof Dr Saad Rana",
+"Dr Expenses Abbi",
+"Dr Ayaz ",
+"Dr Ejaz F. H",
+"Dr Sajid",
+"DR TEHSEEN",
+"Dr Nasrullah",
+"Dr sajjad sab token against 10 plots",
+"DR fee",
+"Dr Palwan",
+"DR ACTIVITY ",
+"Dhq Dr soup",
+"Dr Afzal Income",
+"Dr Akram",
+"Dr Fayyaz",
+"Dr For Rose",
+"Dr Saucy",
+"Dr Shahbaz",
+"Dr Yousaf Return",
+"Dr activity ",
+"Dr adnan",
+"Dr ashfaq b34",
+"Dr checkup fess",
+"Dr fees ",
+"Dr fees and medicine",
+"Dr fees n medicine 2",
+"Dr investment",
+"Dr iqbal",
+"Dr jamel Khana",
+"Dr kamran",
+"Dr khilji",
+"Dr latif loan return",
+"Dr salary",
+"Dr skin",
+"RIDA MED DR SALEEM",
+"Wajia dr fees",
+"Wajia visit to dr shafqat plus medcn",
+"dr azam",
+"JB IA DR",
+"Special For AD DR",
+"JB DR",
+"Abu dr",
+"Eye drops",
+"Irfan dr.",
+"Clinic",
+"Clinic ",
+"Clinic income",
+"Clinic Income",
+"CLINIC",
+"Clinic Expense ",
+"Clinic rent ",
+"Clinic utility",
+"Clinic assistant",
+"Clinic expense",
+"Home Clinic ",
+"Clinics",
+"Clinic Rent",
+"Clinic expenses ",
+"Clinical",
+"MinDoktor Clinic Income",
+"Daily Clinic Expense",
+"Papa clinic income",
+"Papa income clinic",
+"Clinic Qureshi hospital ",
+"Clinic expenses",
+"Clinic rent and expenses ",
+"Clinic materials",
+"Clinic refreshment & miscellaneous",
+"Chamber/clinic",
+"Clinic material",
+"Clinic rent and salaries ",
+"Clinic med ",
+"Pain & Ortho Rehab Clinic",
+"Clinic rent",
+"ClinicExp",
+"Impladent Clinic ",
+"Alam Clinic",
+"Amna clinic Doctor needle ",
+"Clinic Share",
+"Clinical Practice",
+"Home Clinic",
+"Medicine Clinic",
+"Model Town Clinic",
+"Nand Polyclinic",
+"Rent clinic",
+"Sancho clinic",
+"Shahid clinic salary",
+"Aryan Clinic",
+"Bcl Mehsood Clinic ",
+"CLINIC ",
+"Clinic Bill ",
+"Clinic Fee",
+"Clinic G13 expense ",
+"Clinic Itema",
+"Clinic Mantenas",
+"Clinic Multan ",
+"Clinic Setup",
+"Clinic big med",
+"Clinic bill",
+"Clinic daily opd",
+"Clinic med",
+"Clinic/Medicine",
+"Mai Bclinic",
+"Mlz Clinic",
+"Modern Dental Clinic ",
+"Morning clinic",
+"My clinic",
+"Naz clinic ",
+"Other expenses of clinic",
+"PM clinic",
+"Pain & ortho Rehab clinic",
+"Podda clinic ",
+"Rant clinic",
+"Sherif Bishara Dental Clinic ",
+"Tel abta clinic",
+"clinic bill",
+"clinic income",
+"clinic medicine",
+"rampur clinic",
+"Injection ",
+"WBC Injections",
+"Injections payment support",
+"Injection Moulding Machine",
+"Hospital injection for BG",
+"Injection Nerobian",
+"Injection+other medicine ",
+"Mama injection ",
+"Dialysis",
+"Dialysis & others",
+"Ammi dialysis and medicine",
+"Asim and dialysis",
+"Diagnosis Test D3",
+"Diagnosis",
+"Diagnosis Test Wife ",
+"Inhaler",
+"Nose inhaller",
+"Insulin",
+"Insuline shugar",
+"Mom insulin tenormin",
+"Glucose",
+"Glucose D",
+"Strips gluco"),
+"Personal":("Personal",
+"Personal Expenses",
+"Personal ",
+"7. Personal Exp.",
+"Personal exp",
+"Moiz Personal",
+"Personal Business ",
+"Hafeez personal expenses",
+"personal",
+"Personal expenses",
+"Personal Daily ",
+"Personal Care",
+"Raza's Personal",
+"Personal Miscellaneous ",
+"Personal Household",
+"Personal & Misc.",
+"Personal Food",
+"Personal expence",
+"My Personal",
+"Personal Expenses ",
+"Personal & Office",
+"Sunny Personal",
+"Personal Expense",
+"PERSONAL Exps",
+"Personal (office +casual)",
+"Personal Myself",
+"Hotel Trevel/Personal",
+"Food Cost Personal ",
+"Personal Hadi",
+"Personal Anees Expenses",
+"Personal Family",
+"Personal daily",
+"Personally ",
+"Personal Loan",
+"Hina Personal",
+"Farhan personal",
+"Personal Items",
+"Personal Exp",
+"PAPA'S PERSONAL EXPENSE",
+"Grocery - Personal",
+"Waqar personal ",
+"My personal",
+"Transport personal",
+"Personal + Entertainment ",
+"Petrol personal",
+"Personal ðŸ§’",
+"Food (personal,fam or friends)",
+"Personal care or shopping",
+"Personal loan",
+"Personal practice",
+"Personal Eating",
+"Mirpur Expense Personal",
+"Personal (INTERIOR)",
+"Personal Loan ",
+"Arslan personal",
+"Personal Advance",
+"Personal Stuff",
+"PERSONAL",
+"Conveyance - Personal",
+"Personal food",
+"Asif personal",
+"My Personal ",
+"Personal Uses",
+"Personal use",
+"S-Personal",
+"Rizwan Personal",
+"Bath and Personal Care",
+"M & S-Personal",
+"Wife personal",
+"Shumaila personal",
+"PERSONAL EXPENSES",
+"Personal-Entertainment",
+"Personal care",
+"Aisha Personal Expenses ",
+"Naveed Personal",
+"Personal Spendings",
+"Transport Personal",
+"AYK Personal",
+"Personal Mobile Load",
+"Personal for Mobile",
+"Personal Loans",
+"Personal Grooming ",
+"Personal C",
+"Personal isb",
+"Careem for personal",
+"Hafi Personal Expenses",
+"Hamood Personal",
+"Other Personal Purchases ",
+"Shopping / Personal",
+"Personal care etc",
+"Personal Care and Hygiene",
+"Decent Personal",
+"Entertainment and personal",
+"Personal Services",
+"Personal Shopping ",
+"Personal staff salary",
+"personal spent ",
+"Fayyad personal",
+"Hygiene & Personal Care",
+"Personal S",
+"Personal Utilities (Clothing, etc.)",
+"Personal'",
+"SAR-personal",
+"Entertainment - Personal",
+"Personal Use",
+"Noman Personal ",
+"Personal (shakil)",
+"Personal Mustafa",
+"Personal cig",
+"Personal cig n drnk",
+"Personal lifestyle",
+"Personal-Fuel/Traveling",
+"Ayesha Personal",
+"Personal Belongings",
+"Personal Shopping",
+"PERSONAL EXPERIENCE",
+"Personal & shopping",
+"Personal Sandy",
+"Personal qametee",
+"Personal vellore",
+"Shopping Personal",
+"14. Personal",
+"Car Expense personal",
+"Family Trips & Personal Trips",
+"M-Personal",
+"MY PERSONAL EXP",
+"Personal Fuel/Transportation/etc",
+"Sadia personal ",
+"Zbn Personal Care ",
+"Personal grooming",
+"Personal expence  avoidable ",
+"Daily Personal",
+"Personal Daily Items",
+"Personal Hassan",
+"Personal daily expense",
+"Personal prince",
+"Personal.",
+"Personality ",
+"Saadia personal",
+"Sadi Personal ",
+"Scb personal loan",
+"Self - Personal",
+"Personal kharcha",
+"Personal loan ",
+"Imran Personal",
+"Personal (Jafor)",
+"Personal Apparels",
+"Personal Entertainment",
+"Personal LOAN",
+"Personal Mina",
+"Personal kharcha  ",
+"Personal!",
+"Shafaq Personal",
+"Personal Grooming",
+"Personal income",
+"Travel (personal)",
+"4. Personal",
+"Personal Investment",
+"personal use",
+"Evan personal",
+"Give loan Personal",
+"Mohsin Personal",
+"PERSONALLY",
+"Personal (Akram)",
+"Personal (Beauty & hygiene)",
+"Personal / Family Expenses",
+"Personal Food Expenses",
+"Personal Nafisa",
+"Personal Need",
+"Personal Travelling ",
+"Personal Vajy",
+"Personal transport",
+"Petty personal",
+"Steven personal",
+"Talha Personal",
+"Transport Personal ",
+"Personal for Wallet",
+"Personal Cash",
+"Personal Grocery",
+"Personal Salary",
+"Personal Transport",
+"Abdullah personal",
+"Begum/Personal",
+"Careem Personal",
+"Daily expenses personal",
+"Kishan Chand Personal ",
+"PERSONAL ",
+"Personal - Rizwan",
+"Personal Account ",
+"Personal Vehicles Fueling",
+"Personal all",
+"Personal car experience",
+"Personal exp.",
+"Personal for SOE SOE",
+"Personal- Haircut",
+"Personal-Daily",
+"Sidra personal exp",
+"Zafar Personal Exp",
+"personal ABR account",
+"à¤¬à¥à¤¯à¤•à¥à¤¤à¤¿à¤—à¤¤ (Personal)à¤–à¤°à¥à¤š ",
+"Personal Income",
+"Personal Utilities",
+"Bank Personal Loan Installment",
+"House Wife Personal ",
+"Kanha Personal",
+"Mother Personal",
+"PERSONAL LOAN",
+"Personal / My Expenses ",
+"Personal Care Product",
+"Personal Cost",
+"Personal Expenses (University)",
+"Personal Gold",
+"Personal Medical",
+"Personal Miscellaneous",
+"Personal Monthly Ration",
+"Personal Waqas",
+"Personal bullets",
+"Personal cost",
+"Personal-Medical",
+"Ratul Personal",
+"Sabhya personal",
+"Sahar Personal Shopping ",
+"Shabbir Personal",
+"household personal",
+"naB/Personal ",
+"personal goodies",
+"personal medicine purchase",
+"Personal Hygiene",
+"Personal saving",
+"9. Personal Shopping",
+"Montly Amount for Personal",
+"Personal Expences",
+"Personal Fuel",
+"Personal Savings",
+"Personal expenses ",
+"Personal interest loan",
+"Personal medicines",
+"Personal mobile",
+"Wives personal",
+"Anees personal expenses",
+"Annes personal loan",
+"Ayesha personal",
+"Beshoy personal",
+"Entertainment Personal",
+"Faisal personal",
+"HM Personal",
+"Household Personal ",
+"Maro personal",
+"Marriage personal shopping",
+"My Personal Money",
+"My personal fOod expense",
+"Personal - Office",
+"Personal Bank loan",
+"Personal Developments",
+"Personal Eating-out",
+"Personal Expense ",
+"Personal Piggy Bank",
+"Personal Usman",
+"Personal fuel",
+"Personal saving ",
+"Personal shopping ",
+"Personal-Donations",
+"SaVyA PeRsOnaL",
+"Transport-Personal",
+"WS Personal",
+"chase up personal",
+"personal loan ",
+"vellore personal",
+"Loan personal",
+"Personal 2",
+"Personal Stuff ",
+"Personal expense",
+"Personal mobile bill",
+"Personal shopping",
+"sunny personal Huawei y7 prime gold ",
+"A Personal",
+"Amir personal",
+"Ammar Personal",
+"Big B personal",
+"Charity Personal",
+"Credit Personal ",
+"Dad Personal",
+"Extra Personal",
+"Faisal farhan personal",
+"Fawad's Personal Expense",
+"Fouzia Personal",
+"Grocery Personal",
+"Interest expense on personal loanqnb",
+"Jasim Personal Expence",
+"Leyakot Personal ",
+"MOM Personal",
+"Madiha Personal",
+"Maham personal",
+"Men Personal Kit",
+"Other Personal ",
+"Personal & Clothing",
+"Personal & Outer",
+"Personal (Own + Gym)",
+"Personal (mob+mess bill)",
+"Personal (nova)",
+"Personal (wife)",
+"Personal - Friend",
+"Personal - S",
+"Personal Akbarul",
+"Personal Budget",
+"Personal Chase Items",
+"Personal Conveyance ",
+"Personal Daily Expenses",
+"Personal Gifts/Donations",
+"Personal Hani",
+"Personal Hussain",
+"Personal Hygiene And Grooming",
+"Personal KDJ",
+"Personal Loans ",
+"Personal Men",
+"Personal Refreshments ",
+"Personal Use ",
+"Personal Work",
+"Personal and recharge ",
+"Personal car fuel ",
+"Personal care items",
+"Personal case",
+"Personal clothing ",
+"Personal groom ",
+"Personal loan payment",
+"Personal sand",
+"Personal sheesha",
+"Personal shoping",
+"Personal us3",
+"Personal withdrawal",
+"Personal(cosmetics N Beauty) ",
+"Personal- Care",
+"Personal-Cloth/Shoes/G.Items etc",
+"Personal-intra external dealing",
+"Personal/Hair Dresser",
+"Personality",
+"SaTyA PeRsOnaL",
+"Sajjad Personal",
+"ShiKsHa PeRsOnaL",
+"Shoaib Personal",
+"Umar Personal",
+"Vicky Personal",
+"personal hangout",
+"personall",
+"2. Personal",
+"AW Personal",
+"AZI PERSONAL ",
+"Additional Amount For Personal ",
+"Ammar Personal ",
+"Arbaaz personal use",
+"B personal",
+"BAFL Personal Loan Payment",
+"Bajaj Finsrv Personal Loan",
+"Booboo Personal",
+"Credit cards & personal loan",
+"Fruit Personal ",
+"Ghansham personal credit",
+"Grocery / Personal Care",
+"Gym Personal Training",
+"Home and personal uses",
+"ICICI Personal Loan",
+"K.Personal",
+"LOAN AXIS PERSONAL.",
+"LOAN BAJAJ PERSONAL.",
+"LOAN SBI PERSONAL.",
+"Loans (Personal)",
+"Loans Personal",
+"Mama's personal",
+"Maryam personal ",
+"Molvi personal",
+"Month personal income Ra",
+"Mrs Personal ",
+"My personal Use",
+"My personal expense",
+"Najam ko personal",
+"Office Use From My personal pocket",
+"Other Personal",
+"PERSONAL ACCOUNT ",
+"PERSONAL CARE PRODUCTE",
+"PERSONAL SAVINGS",
+"Personal & Care",
+"Personal & Grooming ",
+"Personal & children",
+"Personal / Office expense",
+"Personal 380",
+"Personal Anil",
+"Personal Asif",
+"Personal Bank Loan",
+"Personal Busniss",
+"Personal CNG",
+"Personal Capital",
+"Personal Care Items",
+"Personal Conveyance (House-Office)",
+"Personal Cosmetic",
+"Personal Dad",
+"Personal Development",
+"Personal F.B",
+"Personal Gifts",
+"Personal Goods",
+"Personal Haris",
+"Personal Hygene",
+"Personal Item ",
+"Personal Job",
+"Personal Lending",
+"Personal Loan (Ammi)",
+"Personal Loan EMI",
+"Personal Loan Inst",
+"Personal Loan Installment ",
+"Personal Loan Repay",
+"Personal Lon-Interest",
+"Personal Lon-Somiti",
+"Personal Mazdori",
+"Personal Mix",
+"Personal Mobile",
+"Personal Mom",
+"Personal Money",
+"Personal Office exp",
+"Personal Other",
+"Personal Petrol",
+"Personal Saving",
+"Personal Savings ",
+"Personal Savongs",
+"Personal Shoes",
+"Personal Sumera",
+"Personal Training",
+"Personal Training Payment",
+"Personal Traveling",
+"Personal Traveling ",
+"Personal Upkeep",
+"Personal Wallet",
+"Personal business",
+"Personal care 6140",
+"Personal chase purchase",
+"Personal clients",
+"Personal effect",
+"Personal expence ",
+"Personal expense.",
+"Personal gift money",
+"Personal gym trainer",
+"Personal home grocery",
+"Personal insurance ",
+"Personal kamaitee",
+"Personal loan from office 70000",
+"Personal loan installment",
+"Personal loan pay",
+"Personal loan payments",
+"Personal loan repayment",
+"Personal loan silk",
+"Personal loans ",
+"Personal maintainence",
+"Personal maintenance",
+"Personal previous balance",
+"Personal time",
+"Personal trainer",
+"Personal travelling",
+"Personal use ",
+"Personal widrawl",
+"Personal ðŸŒï¸â€â™‚ï¸",
+"Personal(salf)",
+"Personality 1",
+"Personally Used",
+"Pocket Expenses / Personal ",
+"Rina personal loan",
+"Santosh personal",
+"Sidra Personal",
+"Silk personal loans ",
+"Sp(personal)",
+"SuShMa PeRsOnaL",
+"Taimoor personal",
+"Tea Personal",
+"Uroosa personal",
+"Usman personal",
+"Usman personally ",
+"Utilities.Personal",
+"Voilet Personal",
+"Wallet Personal",
+"Website personal",
+"Zara Personal Expense",
+"Zara's Personal Expense",
+"Zulfiqar - Personal",
+"Zunair personal",
+"ammi personal",
+"honey personal",
+"my personal emergency",
+"personal ",
+"personal amount in previous month",
+"personal cutting etc",
+"personal loan 1",
+"personal loan 2",
+"personal loans",
+"Grroming",
+"Self grroming",
+"Grooming",
+"Grooming ",
+"Personal Grooming ",
+"Clothing and Grooming",
+"Personal grooming",
+"Gym & Grooming",
+"Personal Grooming",
+"Grooming and Haircut",
+"Cosmetics/ Grooming ",
+"Cutting & Grooming",
+"Grooming.",
+"Style & Grooming",
+"Beauty and grooming",
+"Fitness / Grooming",
+"Grooming RMZ",
+"Grooming etc",
+"Men grooming ",
+"Personal Hygiene And Grooming",
+"Clothes & Grooming",
+"Grooming Items",
+"Grooming Oil",
+"Grooming expenses",
+"Hair Cut/Grooming",
+"Haircut/Barber/Grooming",
+"Personal & Grooming ",
+"Self Grooming",
+"Self grooming",
+"grooming ",
+"grooming stuff",
+"Personal groom ",
+"Beauty And Groom",
+"Beard/ haircut ",
+"Hair and beard expence ",
+"Hair & Beard Trimming",
+"Hair/Beard",
+"Hair Cut & Beard",
+"Beard trimming",
+"Cutting Hair n Beard",
+"Hair cut and beard shape",
+"Haircut/Beard",
+"Hair & Beard",
+"hair/beard cutting",
+"Beard",
+"Beard Setting",
+"Beard and Hair Cutting",
+"Beard and Haircut ",
+"Beard and hair",
+"Beard make",
+"Beard/hair trimming",
+"Cutting & beard",
+"Hair & beard",
+"Hair Cut and Beard.",
+"Hair cut/beard cut",
+"Haircut & Beard",
+"Bal katig",
+"Awais bal katvae",
+"Threading",
+"Thread",
+"Wax",
+"Waxing",
+"Body Wax",
+"Wax ",
+"Hair Wax",
+"Personal Myself",
+"Myself",
+"Gift to Myself",
+"expenses for myself",
+"Reward myself",
+"Expance myself",
+"Shopping for myself ",
+"Beauty",
+"Health & Beauty",
+"Beauty Items",
+"beauty",
+"Beauty & Cosmetics",
+"Beauty Products",
+"Beauty ",
+"Beauty & Cosmatic",
+"Clothing&Beauty",
+"BeautyðŸ˜",
+"Personal (Beauty & hygiene)",
+"healthy & Beauty",
+"Beauty Products ",
+"Beauty products",
+"Beauty and Jewelry",
+"Beauty care ",
+"Health n beauty",
+"Beauty Expense",
+"Qurat Beauty box",
+"Beauty care",
+"Beauty parlor ",
+"Amna's Beauty Course",
+"Beauty And Care ",
+"Beauty and grooming",
+"Beauty n hygen",
+"Beauty parlour ",
+"Beauty parlour & Hair dresser",
+"Beauty/fitness",
+"Cosmetic, Beauty, ",
+"Glourious Beauty Parlor ",
+"Personal(cosmetics N Beauty) ",
+"Beauty & Care",
+"Beauty And Groom",
+"Beauty Manyari",
+"Beauty N Cosmetic",
+"Beauty Parlor",
+"Beauty Parlour",
+"Beauty Salon",
+"Beauty Salons",
+"Beauty parlour",
+"Beauty product",
+"Beauty salon",
+"Buy Beauty product",
+"Hair cut & beauty",
+"MAKEUP & BEAUTY ",
+"Shafaq beauty parlour",
+"Facial",
+"Cream & facial foam",
+"FARAH facial",
+"Facial & Shave & related things",
+"Facial Kit",
+"Facial board",
+"Facial cream",
+"Hair saloon/facial care",
+"Haircut facial",
+"Pengs Facial Haircut and Uber",
+"cutting facial",
+"facial",
+"Massage",
+"Massage/selfcare",
+"go massage",
+"sadia massage",
+"SelfCare",
+"Makeup",
+"Makeup ",
+"makeup",
+"Makeup kit",
+"Makeup/Cosmetics",
+"Makeup Essentials ",
+"Makeup and accessories ",
+"Makeup earrings",
+"Sara makeup",
+"Shoes and makeup",
+"Makeup/Skincare",
+"Hira's makeup ",
+"MAKEUP & BEAUTY ",
+"Makeup Fund",
+"Makeup Wife ",
+"Makeup for bari",
+"Makeup items ",
+"Makeup/accessories ",
+"Sobia's makeup",
+"Ayra milk, pampers, wipes",
+"Wipes",
+"Pampers and wipes",
+"Diapers wipes",
+"Baby Wipes",
+"Pamp&wipes",
+"Always,wipes, Pampers",
+"Baby wipes",
+"Diappers & Wipes",
+"Pamper & wipes",
+"Pamper/wipes",
+"Pampers wipes",
+"face wash &wipe off",
+"Apna kharcha",
+"Mera apna kharcha ",
+"Apna Kharcha",
+"Fashion",
+"Fashion And Style",
+"Fashion cuting etc",
+"Haircut",
+"Hair cut",
+"Hair cutting",
+"Hair Cut",
+"Hair Saloon",
+"Hair Cutting",
+"Haircut ",
+"Hair Dresser",
+"Hair Dressing",
+"Hairdresser",
+"Hair n Beared Cutting",
+"Hair cutting ",
+"Beard/ haircut ",
+"Hair dressing",
+"Hair",
+"HAIR CUTTING",
+"Hair dresser",
+"hair cut",
+"Hair Cutting & Shave",
+"Hair Cut ",
+"Hair salon",
+"Hair Cutting ",
+"Hair saloon",
+"Hair Salon ",
+"Skin and Hair Care",
+"Hair cut ",
+"Hair and beard expence ",
+"Hair-Dresser",
+"Hair Dressing ",
+"Hair & shave",
+"Hair Styling",
+"Hair ",
+"Hair Cut + Oil",
+"Hair & Beard Trimming",
+"Hair/Beard",
+"haircut",
+"vip hair salon against Huawei y7 pri",
+"Grooming and Haircut",
+"hair cutting",
+"Hair Cut & Shave",
+"Hair Cut & Beard",
+"Hair and shave",
+"Hair salon ",
+"Personal- Haircut",
+"Shave and haircut",
+"HAIR CUT",
+"Hair cuting",
+"Hair Oil",
+"Hair Salon",
+"Hair cat",
+"Haircutting",
+"Hairstyle",
+"Cutting Hair n Beard",
+"Hair Kating ",
+"Hair cut and beard shape",
+"Hair dress",
+"Haircut & Shaving ",
+"Hair cutt",
+"Haircut/Beard",
+"hair cutting ",
+"hair dresser",
+"Cut hair",
+"Hair & Beard",
+"Hair and Brain",
+"Hair and body ",
+"Hair cut and shaiving expenses",
+"Hair cut/shave",
+"Hair cutting &shave",
+"Hair cutting and shave ",
+"Hair dresser ",
+"Hair kut",
+"Hair product",
+"HairCutt",
+"Haircuts",
+"Haircutt",
+"Hairdresser ",
+"hair & shave",
+"hair cit",
+"hair/beard cutting",
+"Hair Cuting",
+"Hair Dresser ",
+"Beauty parlour & Hair dresser",
+"HAIR CARE",
+"Hair And Shave",
+"Hair Cut and Shave",
+"Hair Cutting & Saloon",
+"Hair Cutting And Shave ",
+"Hair Oil, shampo & soph",
+"Hair and face",
+"Hair colour",
+"Hair cut +",
+"Hair cut n fruit",
+"Hair cuttinf",
+"Hair cutting shave",
+"Haircut(incl travel) ",
+"Hairs / Shave",
+"Personal/Hair Dresser",
+"Shaving N Hair Cut",
+"Shaving/Hair cutting",
+"Shawe & Haircut ",
+"Sloon & Hair Cuting",
+"Adeel Hairing cutting",
+"Barber shop hair cut",
+"Beard and Hair Cutting",
+"Beard and Haircut ",
+"Beard and hair",
+"Beard/hair trimming",
+"Cutting/Hair Dye",
+"Garnier hair dye & Listerine",
+"HAIR",
+"HAIR BRUSH",
+"HAIRCUT",
+"Hair & Care",
+"Hair & Nails",
+"Hair & Sheving ",
+"Hair & beard",
+"Hair COLOR",
+"Hair Colur Fnf",
+"Hair Cream",
+"Hair Cut Cost",
+"Hair Cut and Beard.",
+"Hair Cut, Khat",
+"Hair Cut/Grooming",
+"Hair Cutting  ðŸ’‡ ",
+"Hair Cutting SS",
+"Hair Cutting Saloon",
+"Hair Dress",
+"Hair Dressor ",
+"Hair Dyr",
+"Hair Parlour ",
+"Hair Setting",
+"Hair Style",
+"Hair Styling ",
+"Hair Treatment ",
+"Hair Wax",
+"Hair accesories",
+"Hair and beared",
+"Hair brush",
+"Hair care",
+"Hair clips",
+"Hair cut & beauty",
+"Hair cut and shave ",
+"Hair cut and shaving ",
+"Hair cut/beard cut",
+"Hair cutting Adeel",
+"Hair cutting and beared setting",
+"Hair cutting khat ",
+"Hair cutting/khatt",
+"Hair dryer",
+"Hair extensions + dye",
+"Hair machine",
+"Hair products",
+"Hair saloon/facial care",
+"Hair shop expenses",
+"HairCut-Oil",
+"Haircut & Beard",
+"Haircut & Shave",
+"Haircut And Salon",
+"Haircut bilal",
+"Haircut boys",
+"Haircut facial",
+"Haircut/Barber/Grooming",
+"Hairdresser barrowed",
+"Hairing ",
+"Hairs",
+"Hairs cutting",
+"Hairstyle ",
+"Hairtreatment and dressing",
+"Mama hair colour ",
+"Parlor haircut etc",
+"Pengs Facial Haircut and Uber",
+"Saloon hair style ",
+"Samiz Haircut",
+"Shave & Hair Cutting",
+"Shave & Haircut",
+"Shave/haircut ",
+"hair",
+"hair Cutting",
+"hair cutt",
+"hair teeth cream ",
+"haircut ",
+"haircut/khat",
+"hairs",
+"Nail cutter",
+"Hair & Nails",
+"Nail cutter + safety + biscuit",
+"Nail kit",
+"Nail polish and a4 paper ",
+"Nails",
+"Make up",
+"Make Up",
+"make up",
+"Make Up ",
+"Dolly make up",
+"Face wash... make up",
+"Make Up ( F-10 )",
+"Saima make up",
+"Barber",
+"Barbar",
+"Barber ",
+"Barbar Shop",
+"BARBER",
+"Barbershop",
+"Barbor",
+"BarberðŸ’‡â€â™‚ï¸",
+"barber",
+"Barber Shop",
+"Barber Expense for shaving",
+"Barbar ",
+"Barber Expenses",
+"Styling barber",
+"barbar",
+"Barbershop ",
+"Barber shop",
+"Barber.shref",
+"Barbar Expense",
+"Barber shop ",
+"Barber ðŸ’ˆ ",
+"Barbour",
+"barber cut",
+"Barber  ",
+"Barber Cutting",
+"Barber Expenses ",
+"Barber charges",
+"Barber exp",
+"Barber shop hair cut",
+"Barber's ",
+"Barber.",
+"Barbet",
+"Barbishop",
+"Barbour shop",
+"Cutting Barber saloon",
+"Fish barbique",
+"Haircut/Barber/Grooming",
+"Saifal barbar BAHARA ",
+"Shaku barber",
+"Washerman/Barbur",
+"barber shop"),
+
+}
