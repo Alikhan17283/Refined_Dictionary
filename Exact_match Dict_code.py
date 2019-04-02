@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 import re
-Dict={}
+
 
 list1=[]
-for i,v in Dict.iteritems():
+for i,v in Exact_match_Dictionary.iteritems():
 
-    list3=[]#print (i)
+    list3=[]
     for x in i:
         list2 = []
         for i in v:
@@ -22,7 +22,14 @@ for i,v in Dict.iteritems():
 
             for x in list2:
                 if x not in list3:
+
                     list3.append(x)
+
+    fw=open("dictionary_Exact.txt","a")
     print (list3)
+    fw.write("=============================================================================\n")
+    fw.write("=============================================================================\n")
     for i in list3:
-        print ('"{}",'.format(i))
+        a=('"{}",'.format(i))
+        print(a)
+        fw.write(a+"\n")
